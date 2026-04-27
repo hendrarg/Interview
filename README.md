@@ -12,64 +12,65 @@
 <br>
 
 <details>
-<summary><b>👤 Perkenalan</b></summary>
+<summary><b>👤 Perkenalan & Pengalaman</b></summary>
 
-Saya adalah seorang **SDET (Software Development Engineer in Test)** dengan pengalaman lebih dari **4 tahun** di industri perangkat lunak. Saya memiliki pemahaman mendalam tentang metodologi pengujian, mulai dari functional testing, integration testing, hingga performance testing.
+Saya adalah seorang **SDET (Software Development Engineer in Test)** dengan pengalaman lebih dari **4 tahun** di industri perangkat lunak. Sepanjang karir saya, saya telah bekerja di tiga perusahaan dengan domain berbeda — mulai dari manajemen aset, perbankan (kredit card), hingga logistik — dan di setiap perusahaan saya membawa kontribusi nyata yang meningkatkan kualitas dan efisiensi proses pengujian.
 
-Saya terbiasa bekerja dalam situasi tekanan tinggi dan mampu belajar dengan cepat untuk memahami produk atau platform baru. Saat ini saya bekerja di **Lion Parcel** sebagai SDET, berfokus pada otomasi pengujian web, API, dan mobile untuk sistem logistik terintegrasi.
-
-</details>
-
----
-
-<details>
-<summary><b>💼 Pengalaman Kerja</b></summary>
-
-### 🏢 SDET — Lion Parcel *(Oktober 2025 – Sekarang)*
-> *under MSBU*
-
-**Project: Genesis & Liberta**  
-Sistem manajemen logistik dan pengiriman terintegrasi.
-
-- Membuat script otomasi untuk web, API, dan mobile testing
-- Melakukan refactor dan rewrite script Robot Framework ke Playwright
-- Regression testing, maintenance code, dan tech debt
-- Database testing dan API testing
-- Analisis dan build dengan AI
-
----
-
-### 🏦 QA Automation — Bank BRI *(Mei 2024 – September 2025)*
-> *under Talent Tech*
-
-**Project: Ocean**  
-Modernisasi sistem kartu kredit.
-
-- Membuat script otomasi untuk N2N dan API testing menggunakan Katalon Studio
-- SIT dan support UAT
-- Regression testing dan maintenance code
-- Database testing menggunakan DBeaver
-- API testing menggunakan Postman
-- Mobile testing (Android) dan web/desktop testing
-- Aktif dalam DSU dan sprint events (planning, review, retrospective)
+Saya terbiasa bekerja dalam situasi tekanan tinggi, cepat beradaptasi dengan produk atau platform baru, dan selalu mencari cara yang lebih cerdas untuk melakukan testing — termasuk mengintegrasikan AI ke dalam workflow QA sehari-hari.
 
 ---
 
 ### 🌏 SQA — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
-> *Malaysia-based company*
+> *Malaysia-based company · Project: Management Asset*
 
-**Project: Management Asset**  
-Sistem manajemen aset perusahaan.
+Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri.
 
-- Membuat test plan, test case, dan test scenario
-- Smoke testing, integration testing, acceptance testing, regression testing
-- Membuat bug report, ticket, dan dokumentasi testing
-- Performance testing menggunakan K6
-- Database testing menggunakan DBeaver
-- N2N testing menggunakan Selenium, Appium, dan Rest-Assured
-- API testing menggunakan Postman
-- Cross-platform mobile testing (Android & iOS)
-- Web dan Desktop testing
+**Kontribusi & Day-to-Day:**
+- Membangun automation framework dari nol menggunakan **Selenium, Appium, dan Rest-Assured**
+- Membuat test plan, test case, dan test scenario untuk seluruh fitur (Asset Data, Inventory, Helpdesk, Insurance Claim)
+- Menjalankan smoke, integration, acceptance, dan regression testing secara rutin
+- Performance testing menggunakan **K6** untuk mengukur skalabilitas sistem
+- Cross-platform mobile testing (Android & iOS) dan web/desktop testing
+- Database testing menggunakan DBeaver dan dokumentasi bug di Jira
+
+**Pencapaian:**
+> 🏆 Membangun automation framework pertama di perusahaan dari nol — menjadi fondasi proses QA yang digunakan tim hingga akhir kontrak.
+
+---
+
+### 🏦 QA Automation — Bank BRI *(Mei 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Modernisasi Sistem Kartu Kredit*
+
+Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop application** yang tidak memiliki element identifier yang bisa di-inspect secara konvensional. Saya menggunakan **pendekatan RPA** — mengotomasi aplikasi melalui kontrol mouse dan keyboard secara langsung, tanpa bergantung pada DOM atau element selector.
+
+**Kontribusi & Day-to-Day:**
+- Membuat automation script untuk **N2N testing** menggunakan Katalon Studio dengan pendekatan RPA (mouse & keyboard automation) untuk desktop app yang tidak bisa diakses via selector biasa
+- API testing menggunakan Postman dan database validation menggunakan DBeaver
+- SIT dan support UAT untuk fitur Onboarding Card & Client, Transaction, Data Limit, dan Maintenance
+- Regression testing rutin setiap sprint dan maintenance script automation
+- Aktif dalam DSU, sprint planning, review, dan retrospective
+
+**Pencapaian:**
+> 🏆 Berhasil mengotomasi desktop application tanpa element selector menggunakan pendekatan RPA — solusi kreatif untuk sistem legacy yang tidak mendukung automation konvensional.
+
+---
+
+### 🏢 SDET — Lion Parcel *(Oktober 2025 – Sekarang)*
+> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*
+
+Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya menghadapi dua tantangan besar sekaligus: **memperbaiki automation yang sudah rusak** dan **membangun pendekatan baru berbasis AI**.
+
+**Kontribusi & Day-to-Day:**
+- **Refactoring Robot Framework** — mengidentifikasi root cause flaky dan bloated code yang menyebabkan regression success rate hanya 60%, lalu melakukan refactor sistematis hingga **success rate naik ke 90%**
+- **Migrasi Robot → Playwright** — memimpin migrasi script automation dari Robot Framework ke Playwright menggunakan bantuan AI, termasuk merancang prompt strategy dan workflow AI yang tepat agar hasil migrasi akurat dan maintainable
+- Melakukan **riset mendalam tentang AI workflow** untuk automation testing — termasuk membuat skill role, command structure, dan context management agar AI bisa bekerja secara konsisten sesuai standar tim
+- Membuat automation script baru untuk web, API, dan mobile testing
+- Database testing, API testing, regression, dan tech debt handling
+- Weekly meeting dan kolaborasi lintas tim
+
+**Pencapaian:**
+> 🏆 Menaikkan regression success rate dari **60% → 90%** melalui refactoring Robot Framework yang sistematis.  
+> 🏆 Memimpin migrasi Robot → Playwright berbasis AI dengan merancang workflow, skill role, dan command structure sendiri — pendekatan yang menjadi standar baru tim.
 
 </details>
 
@@ -469,63 +470,65 @@ Ini adalah dua konsep yang **sering disamakan tapi berbeda** — salah satu pert
 <br>
 
 <details>
-<summary><b>👤 Introduction</b></summary>
+<summary><b>👤 Introduction & Experience</b></summary>
 
-I am a **Software Development Engineer in Test (SDET)** with over **4 years of experience** in the software industry. I have a deep understanding of testing methodologies including functional testing, integration testing, and performance testing.
+I am a **Software Development Engineer in Test (SDET)** with over **4 years of experience** in the software industry. Throughout my career, I have worked across three companies in different domains — asset management, banking (credit card), and logistics — bringing real, measurable contributions to quality and automation efficiency at each stop.
 
-I thrive in high-pressure environments and can quickly adapt to new products or platforms. Currently, I work at **Lion Parcel** as an SDET, focusing on web, API, and mobile test automation for an integrated logistics management system.
-
-</details>
-
----
-
-<details>
-<summary><b>💼 Work Experience</b></summary>
-
-### 🏢 SDET — Lion Parcel *(October 2025 – Present)*
-> *under MSBU*
-
-**Project: Genesis & Liberta**  
-Integrated Logistics & Shipment Management System.
-
-- Create automation scripts for web, API, and mobile testing
-- Refactor and rewrite Robot Framework scripts to Playwright
-- Regression testing, code maintenance, and tech debt handling
-- Database and API testing
-- Analysis and build with AI tools
-
----
-
-### 🏦 QA Automation — Bank BRI *(May 2024 – September 2025)*
-> *under Talent Tech*
-
-**Project: Ocean**  
-Modernization of the credit card system.
-
-- Created N2N and API automation scripts using Katalon Studio
-- Conducted SIT and supported UAT
-- Regression testing and code maintenance
-- Database testing with DBeaver, API testing with Postman
-- Android mobile testing and web/desktop testing
-- Participated in DSU and sprint events (planning, review, retrospective)
+I thrive under pressure, adapt quickly to new products and platforms, and constantly look for smarter ways to test — including actively integrating AI into QA workflows.
 
 ---
 
 ### 🌏 SQA — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
-> *Malaysia-based company*
+> *Malaysia-based company · Project: Management Asset*
 
-**Project: Management Asset**  
-Company Asset Management System.
+This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself.
 
-- Created test plans, test cases, and test scenarios
-- Executed smoke, integration, acceptance, and regression testing
-- Documented bug reports, tickets, and testing documentation
-- Performance testing using K6
-- Database testing using DBeaver
-- N2N testing using Selenium, Appium, and Rest-Assured
-- API testing using Postman
-- Cross-platform mobile testing (Android & iOS)
-- Web and Desktop testing
+**Day-to-Day & Contributions:**
+- Built the company's first automation framework from zero using **Selenium, Appium, and Rest-Assured**
+- Created test plans, test cases, and test scenarios for all modules (Asset Data, Inventory, Helpdesk, Insurance Claim)
+- Executed smoke, integration, acceptance, and regression testing consistently each sprint
+- Performance testing using **K6** to measure system scalability under load
+- Cross-platform mobile testing (Android & iOS), web and desktop testing
+- Database testing with DBeaver and bug documentation in Jira
+
+**Achievement:**
+> 🏆 Built the company's first automation framework entirely from scratch — establishing the QA foundation that the team relied on throughout the project lifecycle.
+
+---
+
+### 🏦 QA Automation — Bank BRI *(May 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Credit Card System Modernization*
+
+Here I faced a unique technical challenge: automating a **desktop application with no inspectable element identifiers**. I solved this using an **RPA approach** — automating the application entirely through direct mouse and keyboard control, bypassing the need for DOM selectors or UI element locators entirely.
+
+**Day-to-Day & Contributions:**
+- Built automation scripts for **N2N testing** using Katalon Studio with an **RPA approach** (mouse & keyboard automation) for legacy desktop apps that couldn't be accessed via conventional selectors
+- API testing with Postman and database validation with DBeaver
+- SIT and UAT support for Onboarding Card & Client, Transaction, Data Limit, and Maintenance features
+- Regression testing every sprint and script maintenance
+- Active participation in DSU, sprint planning, review, and retrospective
+
+**Achievement:**
+> 🏆 Successfully automated a legacy desktop application without any element selectors — using an RPA-based approach as a creative solution where conventional automation was not possible.
+
+---
+
+### 🏢 SDET — Lion Parcel *(October 2025 – Present)*
+> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*
+
+My most technically demanding and impactful role to date. I tackled two major challenges simultaneously: **rescuing a broken automation suite** and **pioneering an AI-first automation approach** for the team.
+
+**Day-to-Day & Contributions:**
+- **Refactored Robot Framework test suite** — identified root causes of flaky and bloated code that caused the regression success rate to sit at only 60%, performed systematic refactoring that **raised the success rate from 60% to 90%**
+- **Led the Robot → Playwright migration** — drove the migration of automation scripts from Robot Framework to Playwright using AI assistance, including designing the prompt strategy and AI workflow so that migration output was accurate and maintainable
+- **Researched and built an AI workflow** for automation testing — including designing skill roles, command structures, and context management rules to ensure AI operates consistently within the team's quality standards
+- Created new automation scripts for web, API, and mobile testing
+- Database testing, API testing, regression, and tech debt handling
+- Weekly meetings and cross-functional collaboration
+
+**Achievements:**
+> 🏆 Raised regression success rate from **60% → 90%** through systematic Robot Framework refactoring — eliminating flakiness and reducing bloated code.  
+> 🏆 Pioneered an AI-assisted migration from Robot → Playwright, including researching and building the AI workflow (skill roles, command structure, context rules) that became the team's new standard.
 
 </details>
 
