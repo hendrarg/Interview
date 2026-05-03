@@ -14,9 +14,9 @@
 <details>
 <summary><b>👤 Perkenalan & Pengalaman</b></summary>
 
-Perkenalkan, nama saya **Hendra Rizal Gunawan** — biasa dipanggil **Hendra**. Asli dari **Pangandaran, Jawa Barat**, sekarang tinggal di **Jakarta Barat** karena mengikuti pekerjaan saya. Latar belakang pendidikan saya dari **Universitas BSI Bandung, jurusan Sistem Informasi (S1)**, dan saya juga aktif di komunitas **ISQA (Indonesia Software Quality Assurance)**.
+Perkenalkan, nama saya **Hendra Rizal Gunawan** — biasa dipanggil **Hendra**. Asli dari **Pangandaran, Jawa Barat**, sekarang tinggal di **Jakarta Barat** karena pekerjaan saya memang berbasis di sana secara onsite. Latar belakang pendidikan saya dari **Universitas BSI Bandung, jurusan Sistem Informasi (S1)**, dan saya juga aktif di komunitas **ISQA (Indonesia Software Quality Assurance)**.
 
-Saya bekerja sebagai **SDET** — Software Development Engineer in Test — dengan pengalaman lebih dar **4 tahun** di bidang quality assurance dan automation testing. Selama itu, saya sudah bekerja di tiga perusahaan dengan yang berbeda-beda: manajemen aset, perbankan (issuing), dan logistik.
+Saya bekerja sebagai **SDET** — Software Development Engineer in Test — dengan pengalaman lebih dari **5 tahun** di bidang quality assurance dan automation testing. Selama itu, saya sudah bekerja di tiga perusahaan dengan domain yang berbeda-beda: manajemen aset, perbankan (issuing), dan logistik.
 
 Di setiap perusahaan, saya tidak hanya menjalankan testing — saya juga ikut membangun prosesnya, dari menulis automation framework, mencari solusi untuk sistem yang sulit diotomasi, hingga mengintegrasikan AI ke dalam workflow QA sehari-hari.
 
@@ -81,19 +81,14 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 <details>
 <summary><b>🙋 FAQ Interview</b></summary>
 
-**Q: Ceritakan tentang diri Anda (Tell me about yourself)**  
-> Saya Hendra Rizal Gunawan, seorang SDET dengan pengalaman lebih dari 4 tahun di industri software. Saya mulai karir sebagai SQA di Asset Data Solution Sdn Bhd, perusahaan Malaysia, di mana saya mengelola seluruh siklus testing untuk sistem manajemen aset — mulai dari membuat test plan, automation script, hingga performance testing dengan K6. Setelah itu saya bergabung dengan proyek modernisasi kartu kredit di Bank BRI sebagai QA Automation, dan saat ini saya bekerja di Lion Parcel sebagai SDET, berfokus pada otomasi Playwright dan integrasi AI dalam proses testing. Saya passionate dalam menciptakan sistem testing yang scalable dan efisien.
-
----
-
 **Q: Apa aktivitas harian Anda sebagai SDET? (Day-to-day activities)**  
 > Hari-hari saya biasanya dimulai dengan daily standup bersama tim untuk update progress dan blocker. Setelah itu, aktivitas utama saya mencakup:
 > - Menulis dan memaintain automation script (Playwright/Robot Framework)
-> - Melakukan regression testing setelah ada perubahan kode
-> - Review test scenario untuk fitur baru bersama developer dan product owner
+> - Melakukan regression testing
+> - Review testcase and scenario sebelum scripting automation
 > - Database validation dan API testing untuk memastikan data konsisten di backend
-> - Mendokumentasikan bug dan berkolaborasi dengan developer untuk triage
-> - Sesekali mengeksplorasi tools AI baru untuk meningkatkan efisiensi testing
+> - Mendokumentasikan bug dan berkolaborasi dengan developer
+> - Membuat inovasi baru mengguanakan AI agar pekerjaan lebih efesien
 
 ---
 
@@ -106,22 +101,23 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Apa kelemahan (weakness) Anda?**  
-> Kelemahan saya adalah terkadang saya terlalu perfeksionis dalam hal coverage automation — saya ingin memastikan semua skenario ter-cover dengan baik, yang kadang membuat saya menghabiskan lebih banyak waktu dari yang direncanakan. Saya sedang belajar untuk lebih memprioritaskan coverage berdasarkan risiko bisnis, agar bisa lebih efisien tanpa mengorbankan kualitas yang penting.
+> Kelemahan saya adalah terkadang saya terlalu fokus saat mendalami hal baru yang menarik perhatian saya, sehingga saya sering lupa waktu. Untuk mengatasinya, sekarang saya berusaha lebih disiplin dengan mengalokasikan waktu khusus untuk eksplorasi tersebut, agar fokus utama saya tetap pada penyelesaian tugas sesuai prioritas.
 
 ---
 
 **Q: Mengapa Anda meninggalkan pekerjaan sebelumnya?**  
-> Saya selalu berpindah karena ingin berkembang ke level yang lebih tinggi. Dari SQA saya berkembang ke QA Automation, lalu ke SDET. Setiap perpindahan memberikan saya tantangan baru dan kesempatan untuk mempelajari teknologi serta domain bisnis yang berbeda. Saya mencari lingkungan yang mendorong saya terus bertumbuh secara teknis maupun profesional.
+> Itu karena project base.
 
 ---
 
 **Q: Di mana Anda melihat diri Anda 3-5 tahun ke depan?**  
-> Dalam 3-5 tahun ke depan, saya ingin berkembang menjadi **Senior SDET** atau **QA Lead** yang bisa membangun test strategy dari nol, mentoring junior QA, dan menjadi jembatan antara tim engineering dan product dalam hal quality. Saya juga sangat tertarik mendalami **AI-driven testing** dan menjadi salah satu yang terdepan dalam mengintegrasikan AI ke dalam QA workflow.
+> Target saya adalah bertransisi ke peran manajerial, seperti QA Lead atau Engineering Manager. Untuk mendukung rencana tersebut, saya ingin melanjutkan pendidikan ke jenjang S2. Saya ingin memperkuat sisi kepemimpinan dan manajemen strategi agar tidak hanya ahli secara teknis, tetapi juga mampu mengelola tim dan menyelaraskan kualitas produk dengan kebutuhan bisnis.
 
 ---
 
 **Q: Ceritakan tantangan terbesar dalam pekerjaan Anda**  
-> Tantangan terbesar saya adalah saat bergabung di proyek Bank BRI untuk modernisasi sistem kartu kredit. Saya harus cepat memahami domain perbankan yang kompleks, sementara timeline delivery sangat ketat. Saya mengatasinya dengan aktif bertanya kepada subject matter expert, memprioritaskan test scenario berdasarkan risiko bisnis tertinggi, dan memastikan automation coverage bisa mendeteksi regresi secepat mungkin. Hasilnya, tim berhasil release tepat waktu dengan kualitas yang terjaga.
+> Tantangan terbesar saya adalah saat di Lion Parcel. Waktu itu, saya harus memperbaiki automation suite yang performanya buruk sekaligus melakukan migrasi dari Robot Framework ke Playwright.
+Masalah utamanya adalah script lama sangat tidak stabil (flaky) dengan success rate hanya 60%. Saya fokus melakukan refactoring hingga berhasil naik ke 90%. Bersamaan dengan itu, saya memimpin migrasi ke Playwright menggunakan bantuan AI. Saya merancang sendiri workflow dan command structure-nya agar hasil migrasi AI tetap akurat dan sesuai standar tim. Menyeimbangkan perbaikan sistem lama dan transisi ke teknologi baru secara efisien adalah pengalaman belajar yang luar biasa bagi saya.
 
 ---
 
@@ -141,7 +137,9 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Berapa ekspektasi gaji Anda?**  
-> Untuk posisi lokal: Rp 10.000.000 – Rp 12.000.000/bulan. Untuk remote dengan perusahaan asing: USD 18.000 – USD 24.000/tahun (gross), terbuka untuk negosiasi.
+> Sebelum saya menjawab, boleh saya tahu dulu range yang ditawarkan untuk posisi ini? Saya ingin memastikan kita berada di halaman yang sama sejak awal.
+>
+> Untuk konteks, saat ini saya menerima gaji **Rp 15.000.000 gross per bulan** tanpa benefit dari perusahaan. Benefit yang saya dapat berasal dari sisi client, yaitu makan siang gratis, parkir gratis, dan kopi gratis. Jadi ekspektasi saya tentunya di atas angka tersebut, menyesuaikan dengan tanggung jawab dan benefit yang ditawarkan di posisi ini.
 
 ---
 
@@ -418,7 +416,7 @@ Ini adalah dua konsep yang **sering disamakan tapi berbeda** — salah satu pert
 
 Hi, I'm **Hendra Rizal Gunawan** — just call me **Hendra**. I'm originally from **Pangandaran, West Java**, and currently living in **West Jakarta** since my job is onsite there. I have a **Bachelor's degree in Information Systems from Universitas BSI Bandung**, and I'm also an active member of **ISQA (Indonesia Software Quality Assurance)**, a local QA community I enjoy being part of.
 
-I work as an **SDET** — Software Development Engineer in Test — with over **4 years of experience** in quality assurance and test automation. Over that time, I've worked across three companies in quite different domains: asset management, banking (issuing), and logistics.
+I work as an **SDET** — Software Development Engineer in Test — with over **5 years of experience** in quality assurance and test automation. Over that time, I've worked across three companies in quite different domains: asset management, banking (issuing), and logistics.
 
 In each role, I didn't just run tests — I helped build the process too. From writing automation frameworks from scratch, finding creative solutions for systems that resist conventional automation, to integrating AI into everyday QA workflows.
 
@@ -483,19 +481,14 @@ My most technically demanding and impactful role to date. I tackled two major ch
 <details>
 <summary><b>🙋 Interview FAQ</b></summary>
 
-**Q: Tell me about yourself**  
-> I'm Hendra Rizal Gunawan, an SDET with over 4 years of experience in the software industry. I started my career as an SQA at Asset Data Solution Sdn Bhd, a Malaysia-based company, where I managed the full testing lifecycle for an asset management system — from writing test plans and automation scripts to performance testing with K6. I then joined a credit card modernization project at Bank BRI as a QA Automation engineer, and I currently work at Lion Parcel as an SDET, focusing on Playwright automation and integrating AI into our testing workflows. I'm passionate about building scalable, efficient test systems that genuinely improve software quality.
-
----
-
 **Q: What does your day-to-day look like as an SDET?**  
 > My day usually starts with a daily standup to sync on progress and blockers. From there, my core activities include:
 > - Writing and maintaining automation scripts (Playwright / Robot Framework)
-> - Running regression tests after code changes
-> - Reviewing test scenarios for new features alongside developers and product owners
+> - Running regression test
+> - Reviewing test cases and scenarios thoroughly before starting the automation scripting process.
 > - Database validation and API testing to ensure backend data consistency
-> - Documenting bugs and collaborating with developers during triage
-> - Exploring new AI tools to improve testing efficiency
+> - Documenting bugs and collaborating with developers
+> - Implementing AI-driven innovations to streamline workflows and improve overall efficiency
 
 ---
 
@@ -508,22 +501,23 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: What is your weakness?**  
-> I tend to be perfectionistic about automation coverage — I want every scenario well-covered, which can sometimes take longer than planned. I'm actively working on applying risk-based thinking to prioritize coverage by business impact, so I can stay efficient without compromising on what truly matters.
+> My weakness is that I sometimes get too caught up when exploring interesting new things, which can lead me to lose track of time. To manage this, I’ve started setting specific time blocks for exploration, ensuring that my primary focus stays on completing my tasks according to their priority.
 
 ---
 
 **Q: Why did you leave your previous job?**  
-> Every move I've made has been about growing to the next level — from SQA to QA Automation to SDET. Each transition brought new technical challenges and exposure to different business domains. I look for environments that push me to grow both technically and professionally.
+> That's because of the project base
 
 ---
 
 **Q: Where do you see yourself in 3–5 years?**  
-> I see myself growing into a **Senior SDET** or **QA Lead** role — building test strategies from scratch, mentoring junior QA engineers, and acting as the bridge between engineering and product on quality matters. I'm also very interested in deepening my expertise in **AI-driven testing** and being at the forefront of embedding AI into QA workflows.
+> I aim to transition into a managerial role, such as a QA Lead or Engineering Manager. To support this, I plan to pursue a Master’s degree to strengthen my leadership and strategic management skills. My goal is to balance my technical expertise with the ability to lead teams and align quality strategies with business objectives.
 
 ---
 
 **Q: Tell me about your biggest challenge at work**  
-> One of my biggest challenges was joining the Bank BRI credit card modernization project. I had to quickly understand a complex banking domain while working under very tight delivery timelines. I handled it by proactively asking subject matter experts, prioritizing test scenarios by highest business risk, and ensuring automation coverage could catch regressions fast. The team delivered on time with quality maintained.
+> My biggest challenge was during my time at Lion Parcel. I had to fix a poorly performing automation suite while simultaneously migrating from Robot Framework to Playwright.
+The main issue was the unstable scripts, which had only a 60% success rate. I focused on systematically refactoring them until the success rate reached 90%. At the same time, I led the migration to Playwright by leveraging AI. I designed the workflow and command structures myself to ensure the AI's output remained accurate and up to our team standards. Managing both system stabilization and technology transition at once was a major learning experience for me.
 
 ---
 
@@ -543,7 +537,9 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: What is your expected salary?**  
-> For local positions: IDR 10,000,000 – 12,000,000/month. For remote roles with foreign companies: USD 18,000 – 24,000/year (gross), open to negotiation based on scope and engagement structure.
+> Before I answer, could I ask what range you have in mind for this role? I'd like to make sure we're aligned from the start.
+> 
+> For context, my current compensation is **IDR 15,000,000 gross per month** with no company benefits. The perks I receive come from the client side — free lunch, free parking, and free coffee. So naturally, my expectation would be above that figure, adjusted based on the responsibilities and benefits this position offers.
 
 ---
 
