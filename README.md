@@ -14,9 +14,11 @@
 <details>
 <summary><b>👤 Perkenalan & Pengalaman</b></summary>
 
-Saya adalah seorang **SDET (Software Development Engineer in Test)** dengan pengalaman lebih dari **4 tahun** di industri perangkat lunak. Sepanjang karir saya, saya telah bekerja di tiga perusahaan dengan domain berbeda — mulai dari manajemen aset, perbankan (kredit card), hingga logistik — dan di setiap perusahaan saya membawa kontribusi nyata yang meningkatkan kualitas dan efisiensi proses pengujian.
+Perkenalkan, nama saya **Hendra Rizal Gunawan** — biasa dipanggil **Hendra**. Asli dari **Pangandaran, Jawa Barat**, sekarang tinggal di **Jakarta Barat** karena mengikuti pekerjaan saya. Latar belakang pendidikan saya dari **Universitas BSI Bandung, jurusan Sistem Informasi (S1)**, dan saya juga aktif di komunitas **ISQA (Indonesia Software Quality Assurance)**.
 
-Saya terbiasa bekerja dalam situasi tekanan tinggi, cepat beradaptasi dengan produk atau platform baru, dan selalu mencari cara yang lebih cerdas untuk melakukan testing — termasuk mengintegrasikan AI ke dalam workflow QA sehari-hari.
+Saya bekerja sebagai **SDET** — Software Development Engineer in Test — dengan pengalaman lebih dar **4 tahun** di bidang quality assurance dan automation testing. Selama itu, saya sudah bekerja di tiga perusahaan dengan yang berbeda-beda: manajemen aset, perbankan (issuing), dan logistik.
+
+Di setiap perusahaan, saya tidak hanya menjalankan testing — saya juga ikut membangun prosesnya, dari menulis automation framework, mencari solusi untuk sistem yang sulit diotomasi, hingga mengintegrasikan AI ke dalam workflow QA sehari-hari.
 
 ---
 
@@ -71,64 +73,6 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 **Pencapaian:**
 > 🏆 Menaikkan regression success rate dari **60% → 90%** melalui refactoring Robot Framework yang sistematis.  
 > 🏆 Memimpin migrasi Robot → Playwright berbasis AI dengan merancang workflow, skill role, dan command structure sendiri — pendekatan yang menjadi standar baru tim.
-
-</details>
-
----
-
-<details>
-<summary><b>🛠️ Keahlian Teknis</b></summary>
-
-### Automation Testing
-| Tools | Level |
-|-------|-------|
-| Playwright | ⭐⭐⭐⭐⭐ |
-| Selenium + Cucumber | ⭐⭐⭐⭐⭐ |
-| Katalon Studio + Cucumber | ⭐⭐⭐⭐⭐ |
-| Appium + Cucumber | ⭐⭐⭐⭐ |
-| Cypress + Cucumber | ⭐⭐⭐⭐ |
-| Robot Framework | ⭐⭐⭐⭐ |
-| WebdriverIO | ⭐⭐⭐ |
-
-### Performance & API Testing
-| Tools | Level |
-|-------|-------|
-| K6 | ⭐⭐⭐⭐⭐ |
-| JMeter | ⭐⭐⭐⭐ |
-| Postman | ⭐⭐⭐⭐⭐ |
-
-### Bahasa Pemrograman
-`JavaScript` `TypeScript` `Java` `Python`
-
-### Tools & Platform
-`Git` `Jenkins` `CI/CD Pipeline` `Jira` `DBeaver` `SQL` `Prompt Engineering`
-
-### Jenis Testing
-- Automation Testing (Web, Mobile, Desktop, API)
-- Manual Testing
-- Performance & Load Testing
-- Security Testing
-- Database Testing
-- Test Planning & Execution
-
-</details>
-
----
-
-<details>
-<summary><b>🎓 Pendidikan & Sertifikasi</b></summary>
-
-### Pendidikan
-| Tahun | Institusi | Jurusan |
-|-------|-----------|---------|
-| 2019 | Universitas BSI Bandung | Sistem Informasi (S1) |
-| 2017 | Universitas BSI Tasikmalaya | Manajemen Informatika |
-
-### Sertifikasi (Udemy)
-- ✅ Test Automation with Katalon Studio (Selenium WebDriver)
-- ✅ Appium — Mobile Testing (Android/iOS)
-- ✅ Cypress with Cucumber BDD (Automation Testing Bootcamp)
-- ✅ Playwright JS/TS Automation Testing from Scratch & Framework
 
 </details>
 
@@ -472,9 +416,11 @@ Ini adalah dua konsep yang **sering disamakan tapi berbeda** — salah satu pert
 <details>
 <summary><b>👤 Introduction & Experience</b></summary>
 
-I am a **Software Development Engineer in Test (SDET)** with over **4 years of experience** in the software industry. Throughout my career, I have worked across three companies in different domains — asset management, banking (credit card), and logistics — bringing real, measurable contributions to quality and automation efficiency at each stop.
+Hi, I'm **Hendra Rizal Gunawan** — just call me **Hendra**. I'm originally from **Pangandaran, West Java**, and currently living in **West Jakarta** since my job is onsite there. I have a **Bachelor's degree in Information Systems from Universitas BSI Bandung**, and I'm also an active member of **ISQA (Indonesia Software Quality Assurance)**, a local QA community I enjoy being part of.
 
-I thrive under pressure, adapt quickly to new products and platforms, and constantly look for smarter ways to test — including actively integrating AI into QA workflows.
+I work as an **SDET** — Software Development Engineer in Test — with over **4 years of experience** in quality assurance and test automation. Over that time, I've worked across three companies in quite different domains: asset management, banking (issuing), and logistics.
+
+In each role, I didn't just run tests — I helped build the process too. From writing automation frameworks from scratch, finding creative solutions for systems that resist conventional automation, to integrating AI into everyday QA workflows.
 
 ---
 
@@ -529,64 +475,6 @@ My most technically demanding and impactful role to date. I tackled two major ch
 **Achievements:**
 > 🏆 Raised regression success rate from **60% → 90%** through systematic Robot Framework refactoring — eliminating flakiness and reducing bloated code.  
 > 🏆 Pioneered an AI-assisted migration from Robot → Playwright, including researching and building the AI workflow (skill roles, command structure, context rules) that became the team's new standard.
-
-</details>
-
----
-
-<details>
-<summary><b>🛠️ Technical Skills</b></summary>
-
-### Automation Testing
-| Tools | Level |
-|-------|-------|
-| Playwright | ⭐⭐⭐⭐⭐ |
-| Selenium + Cucumber | ⭐⭐⭐⭐⭐ |
-| Katalon Studio + Cucumber | ⭐⭐⭐⭐⭐ |
-| Appium + Cucumber | ⭐⭐⭐⭐ |
-| Cypress + Cucumber | ⭐⭐⭐⭐ |
-| Robot Framework | ⭐⭐⭐⭐ |
-| WebdriverIO | ⭐⭐⭐ |
-
-### Performance & API Testing
-| Tools | Level |
-|-------|-------|
-| K6 | ⭐⭐⭐⭐⭐ |
-| JMeter | ⭐⭐⭐⭐ |
-| Postman | ⭐⭐⭐⭐⭐ |
-
-### Programming Languages
-`JavaScript` `TypeScript` `Java` `Python`
-
-### Tools & Platforms
-`Git` `Jenkins` `CI/CD Pipeline` `Jira` `DBeaver` `SQL` `Prompt Engineering`
-
-### Testing Types
-- Automation Testing (Web, Mobile, Desktop, API)
-- Manual Testing
-- Performance & Load Testing
-- Security Testing
-- Database Testing
-- Test Planning & Execution
-
-</details>
-
----
-
-<details>
-<summary><b>🎓 Education & Certifications</b></summary>
-
-### Education
-| Year | Institution | Major |
-|------|-------------|-------|
-| 2019 | Universitas BSI Bandung | Information System (Bachelor's) |
-| 2017 | Universitas BSI Tasikmalaya | Informatics Management |
-
-### Certifications (Udemy)
-- ✅ Test Automation with Katalon Studio (Selenium WebDriver)
-- ✅ Appium — Mobile Testing (Android/iOS)
-- ✅ Cypress with Cucumber BDD (Automation Testing Bootcamp)
-- ✅ Playwright JS/TS Automation Testing from Scratch & Framework
 
 </details>
 
