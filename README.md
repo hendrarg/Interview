@@ -84,11 +84,11 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 **Q: Apa aktivitas harian Anda sebagai SDET? (Day-to-day activities)**  
 > Hari-hari saya biasanya dimulai dengan daily standup bersama tim untuk update progress dan blocker. Setelah itu, aktivitas utama saya mencakup:
 > - Menulis dan memaintain automation script (Playwright/Robot Framework)
-> - Melakukan regression testing
-> - Review testcase and scenario sebelum scripting automation
+> - Melakukan regression testing setelah ada perubahan kode
+> - Review test scenario untuk fitur baru bersama developer dan product owner
 > - Database validation dan API testing untuk memastikan data konsisten di backend
-> - Mendokumentasikan bug dan berkolaborasi dengan developer
-> - Membuat inovasi baru mengguanakan AI agar pekerjaan lebih efesien
+> - Mendokumentasikan bug dan berkolaborasi dengan developer untuk triage
+> - Sesekali mengeksplorasi tools AI baru untuk meningkatkan efisiensi testing
 
 ---
 
@@ -101,23 +101,28 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Apa kelemahan (weakness) Anda?**  
-> Kelemahan saya adalah terkadang saya terlalu fokus saat mendalami hal baru yang menarik perhatian saya, sehingga saya sering lupa waktu. Untuk mengatasinya, sekarang saya berusaha lebih disiplin dengan mengalokasikan waktu khusus untuk eksplorasi tersebut, agar fokus utama saya tetap pada penyelesaian tugas sesuai prioritas.
+> Kelemahan saya adalah terkadang saya terlalu perfeksionis dalam hal coverage automation — saya ingin memastikan semua skenario ter-cover dengan baik, yang kadang membuat saya menghabiskan lebih banyak waktu dari yang direncanakan. Saya sedang belajar untuk lebih memprioritaskan coverage berdasarkan risiko bisnis, agar bisa lebih efisien tanpa mengorbankan kualitas yang penting.
 
 ---
 
 **Q: Mengapa Anda meninggalkan pekerjaan sebelumnya?**  
-> Itu karena project base.
+> Perpindahan saya bukan karena ketidakpuasan, tapi karena sifat pekerjaan saya yang memang berbasis project. Ketika satu project selesai, kontrak pun berakhir, dan saya melanjutkan ke project berikutnya. Kebetulan setiap perpindahan juga membawa saya ke domain dan tantangan yang berbeda — dari manajemen aset, ke perbankan, hingga logistik — yang justru memperkaya pengalaman dan skill saya sebagai SDET.
 
 ---
 
 **Q: Di mana Anda melihat diri Anda 3-5 tahun ke depan?**  
-> Target saya adalah bertransisi ke peran manajerial, seperti QA Lead atau Engineering Manager. Untuk mendukung rencana tersebut, saya ingin melanjutkan pendidikan ke jenjang S2. Saya ingin memperkuat sisi kepemimpinan dan manajemen strategi agar tidak hanya ahli secara teknis, tetapi juga mampu mengelola tim dan menyelaraskan kualitas produk dengan kebutuhan bisnis.
+> Salah satu rencana konkret saya adalah melanjutkan pendidikan ke jenjang **S2**. Saya sadar bahwa di industri teknologi Indonesia, karir teknikal punya batas usia yang tidak bisa diabaikan — semakin senior secara teknikal, semakin sempit pasarnya. Karena itu saya ingin bergerak ke arah **manajerial** — menjadi QA Lead atau Engineering Manager yang tidak hanya paham teknis, tapi juga bisa memimpin tim, merancang strategi quality, dan berkomunikasi di level bisnis. S2 bagi saya bukan sekadar gelar, tapi modal untuk transisi itu.
 
 ---
 
 **Q: Ceritakan tantangan terbesar dalam pekerjaan Anda**  
-> Tantangan terbesar saya adalah saat di Lion Parcel. Waktu itu, saya harus memperbaiki automation suite yang performanya buruk sekaligus melakukan migrasi dari Robot Framework ke Playwright.
-Masalah utamanya adalah script lama sangat tidak stabil (flaky) dengan success rate hanya 60%. Saya fokus melakukan refactoring hingga berhasil naik ke 90%. Bersamaan dengan itu, saya memimpin migrasi ke Playwright menggunakan bantuan AI. Saya merancang sendiri workflow dan command structure-nya agar hasil migrasi AI tetap akurat dan sesuai standar tim. Menyeimbangkan perbaikan sistem lama dan transisi ke teknologi baru secara efisien adalah pengalaman belajar yang luar biasa bagi saya.
+> Tantangan terbesar saya ada di Lion Parcel. Ketika saya bergabung, saya dihadapkan pada dua masalah sekaligus — automation suite yang sudah dalam kondisi buruk, dan ekspektasi untuk segera memigrasikan semua script dari Robot Framework ke Playwright.
+>
+> Script Robot Framework yang ada sangat flaky dan bloated. Banyak test yang gagal bukan karena ada bug di aplikasi, tapi karena scriptnya sendiri yang bermasalah. Success rate regression-nya hanya 60%, yang artinya hasil testing tidak bisa dipercaya sepenuhnya. Saya mulai dari sana — mengidentifikasi root cause satu per satu, melakukan refactor secara sistematis, sampai akhirnya success rate naik ke 90%.
+>
+> Tantangan berikutnya adalah migrasi ke Playwright. Yang membuatnya kompleks bukan hanya jumlah script-nya, tapi saya juga harus memastikan hasil migrasi itu akurat dan maintainable — bukan sekadar copy-paste yang berbeda syntax. Saya memilih menggunakan AI sebagai alat bantu, tapi AI tidak bisa langsung dipakai begitu saja. Saya harus meneliti dan merancang workflow-nya sendiri — mulai dari skill role, command structure, sampai context management — agar AI bisa bekerja konsisten sesuai standar tim.
+>
+> Dua tantangan itu berjalan hampir bersamaan, dan keduanya membutuhkan pendekatan yang sangat teliti. Tapi justru dari situ saya belajar banyak hal yang tidak bisa didapat dari project yang berjalan mulus.
 
 ---
 
@@ -150,6 +155,61 @@ Masalah utamanya adalah script lama sangat tidak stabil (flaky) dengan success r
 
 **Q: Bagaimana Anda menghadapi tekanan dan deadline ketat?**  
 > Saya terbiasa dengan situasi ini, terutama di project Bank BRI yang memiliki sprint pendek dan ekspektasi tinggi. Cara saya menghadapinya adalah dengan memprioritaskan task berdasarkan dampak, komunikasi aktif dengan tim jika ada blocker, dan tidak ragu meminta bantuan ketika diperlukan. Saya juga memastikan automation berjalan di CI/CD sehingga tidak perlu testing manual berulang di saat-saat kritis.
+
+---
+
+**Q: Apa perbedaan Playwright dan Selenium menurutmu?**  
+> Playwright lebih modern — built-in auto-wait, support multi-browser out of the box, dan lebih stabil untuk async operation. Selenium lebih mature dan punya ekosistem yang lebih luas, tapi butuh konfigurasi lebih banyak. Dari pengalaman langsung saya pakai keduanya — Selenium di Asset Data Solution dan Bank BRI, Playwright di Lion Parcel. Untuk proyek baru, saya lebih pilih Playwright karena setup lebih cepat dan lebih sedikit flaky test.
+
+---
+
+**Q: Bagaimana cara kamu handle flaky test?**  
+> Ini yang saya hadapi langsung di Lion Parcel. Langkah pertama saya adalah identifikasi dulu apakah flakiness berasal dari script atau dari aplikasinya. Kalau dari script, biasanya masalahnya di timing — saya tambahkan proper wait strategy, bukan hard sleep. Kalau dari aplikasi, saya dokumentasikan dan diskusikan dengan developer. Setelah refactoring sistematis, success rate naik dari 60% ke 90%.
+
+---
+
+**Q: Bagaimana kamu menulis test case yang baik?**  
+> Test case yang baik itu jelas, atomic (satu test satu tujuan), dan reproducible. Saya selalu pastikan ada: precondition yang jelas, steps yang spesifik, expected result yang terukur, dan test data yang terdefinisi. Saya juga memastikan test case bisa dijalankan oleh orang lain tanpa harus bertanya ke saya.
+
+---
+
+**Q: Apa itu API testing dan bagaimana kamu melakukannya?**  
+> API testing adalah memvalidasi endpoint secara langsung tanpa melalui UI. Saya menggunakan Postman untuk manual dan exploratory API testing, dan Rest-Assured untuk automation. Yang saya cek biasanya: status code, response body, response time, error handling, dan konsistensi data antara response API dengan database.
+
+---
+
+**Q: Pernah tidak kamu tidak setuju dengan developer soal sebuah bug?**  
+> Pernah. Ada kasus di mana developer menganggap sesuatu bukan bug tapi expected behavior, sementara saya melihatnya bertentangan dengan requirement. Cara saya mengatasinya adalah dengan kembali ke dokumen requirement atau acceptance criteria sebagai referensi objektif. Kalau tidak ada dokumentasi yang jelas, saya ajak product owner untuk ikut menentukan. Saya tidak pernah membiarkan debat teknis jadi personal.
+
+---
+
+**Q: Ceritakan saat kamu membuat kesalahan dalam pekerjaan.**  
+> Pernah saya melewatkan satu edge case di test scenario yang akhirnya lolos ke UAT. Saya yang langsung lapor ke lead, tidak menunggu ditanya. Dari situ saya belajar untuk selalu melakukan review ulang test scenario dengan perspektif "apa yang bisa salah" — bukan hanya happy path. Sejak saat itu saya juga mulai lebih aktif terlibat di requirement review sejak awal.
+
+---
+
+**Q: Bagaimana kamu onboarding di project atau teknologi baru?**  
+> Pertama saya pahami dulu domain bisnisnya — bukan langsung ke teknikal. Setelah itu saya pelajari arsitektur sistem, baca existing test case kalau ada, dan mulai dari yang kecil dulu. Di Lion Parcel misalnya, saya mulai dengan memahami kondisi script yang sudah ada sebelum saya refactor — tidak langsung ubah semua sekaligus.
+
+---
+
+**Q: Bagaimana kamu menjaga kualitas automation script agar tetap maintainable?**  
+> Saya ikuti prinsip clean code — naming yang deskriptif, tidak ada hardcoded value, pisahkan test data dari logic, dan gunakan page object model atau sejenisnya. Di Lion Parcel, salah satu alasan success rate rendah adalah karena tidak ada struktur yang jelas di script lama. Setelah refactoring dengan struktur yang proper, script jauh lebih mudah di-maintain.
+
+---
+
+**Q: Bagaimana hubungan kerja antara QA dan Developer idealnya?**  
+> Kolaboratif, bukan adversarial. QA bukan polisi yang tugasnya cari salah developer — kita satu tim dengan tujuan yang sama: produk berkualitas. Saya selalu pastikan bug report saya konstruktif dan informatif, bukan sekadar "ini broken". Dan saya senang kalau developer datang ke saya di awal untuk diskusi approach sebelum coding — itu jauh lebih efisien daripada temukan bug di akhir.
+
+---
+
+**Q: Apakah kamu pernah mengusulkan perbaikan proses yang diadopsi tim?**  
+> Ya, di Lion Parcel saya mengusulkan dan merancang AI workflow untuk proses migrasi dan maintenance automation. Sebelumnya tidak ada standar yang jelas bagaimana menggunakan AI untuk testing — saya yang research, buat dokumentasinya, dan akhirnya workflow itu jadi standar baru tim.
+
+---
+
+**Q: Apa yang kamu lakukan kalau ada bug kritikal ditemukan saat hari release?**  
+> Pertama: langsung eskalasi ke lead dan developer — jangan simpan sendiri. Kedua: berikan informasi selengkapnya (steps, environment, severity, dampak) agar bisa cepat dianalisa. Ketiga: ikut diskusi apakah release ditunda, ada hotfix, atau ada workaround. Keputusan ada di tangan tim, tapi QA harus menyediakan informasi yang cukup untuk membuat keputusan yang tepat.
 
 </details>
 
@@ -484,11 +544,11 @@ My most technically demanding and impactful role to date. I tackled two major ch
 **Q: What does your day-to-day look like as an SDET?**  
 > My day usually starts with a daily standup to sync on progress and blockers. From there, my core activities include:
 > - Writing and maintaining automation scripts (Playwright / Robot Framework)
-> - Running regression test
-> - Reviewing test cases and scenarios thoroughly before starting the automation scripting process.
+> - Running regression tests after code changes
+> - Reviewing test scenarios for new features alongside developers and product owners
 > - Database validation and API testing to ensure backend data consistency
-> - Documenting bugs and collaborating with developers
-> - Implementing AI-driven innovations to streamline workflows and improve overall efficiency
+> - Documenting bugs and collaborating with developers during triage
+> - Exploring new AI tools to improve testing efficiency
 
 ---
 
@@ -501,23 +561,28 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: What is your weakness?**  
-> My weakness is that I sometimes get too caught up when exploring interesting new things, which can lead me to lose track of time. To manage this, I’ve started setting specific time blocks for exploration, ensuring that my primary focus stays on completing my tasks according to their priority.
+> I tend to be perfectionistic about automation coverage — I want every scenario well-covered, which can sometimes take longer than planned. I'm actively working on applying risk-based thinking to prioritize coverage by business impact, so I can stay efficient without compromising on what truly matters.
 
 ---
 
 **Q: Why did you leave your previous job?**  
-> That's because of the project base
+> My moves weren't about dissatisfaction — they were simply the nature of project-based work. When a project ends, the contract ends, and I move on to the next one. Each transition happened to bring me to a different domain — asset management, banking, then logistics — which ended up broadening my experience and strengthening me as an SDET more than staying in one place ever could.
 
 ---
 
 **Q: Where do you see yourself in 3–5 years?**  
-> I aim to transition into a managerial role, such as a QA Lead or Engineering Manager. To support this, I plan to pursue a Master’s degree to strengthen my leadership and strategic management skills. My goal is to balance my technical expertise with the ability to lead teams and align quality strategies with business objectives.
+> One of my concrete plans is to pursue a **Master's degree (S2)**. I'm aware that in Indonesia's tech industry, a purely technical career has a shelf life — the more senior you get technically, the narrower the market becomes. That's why I want to move toward **management** — becoming a QA Lead or Engineering Manager who not only understands the technical side deeply, but can also lead a team, design quality strategy, and communicate at a business level. For me, an S2 isn't just a degree — it's the foundation for that transition.
 
 ---
 
 **Q: Tell me about your biggest challenge at work**  
-> My biggest challenge was during my time at Lion Parcel. I had to fix a poorly performing automation suite while simultaneously migrating from Robot Framework to Playwright.
-The main issue was the unstable scripts, which had only a 60% success rate. I focused on systematically refactoring them until the success rate reached 90%. At the same time, I led the migration to Playwright by leveraging AI. I designed the workflow and command structures myself to ensure the AI's output remained accurate and up to our team standards. Managing both system stabilization and technology transition at once was a major learning experience for me.
+> My biggest challenge was at Lion Parcel. When I joined, I was hit with two problems at once — an automation suite in bad shape, and an expectation to migrate all scripts from Robot Framework to Playwright as soon as possible.
+>
+> The existing Robot Framework scripts were heavily flaky and bloated. A lot of tests were failing not because there were actual bugs in the app, but because the scripts themselves were the problem. The regression success rate sat at just 60%, which meant the test results couldn't be fully trusted. I started there — identifying root causes one by one, refactoring systematically, until the success rate climbed to 90%.
+>
+> The next challenge was the migration to Playwright. What made it complex wasn't just the volume of scripts — I also had to make sure the migrated tests were accurate and maintainable, not just a syntax swap. I chose to use AI as an assistant, but AI can't just be plugged in and used blindly. I had to research and design the workflow myself — from skill roles and command structure to context management — so the AI could work consistently within the team's quality standards.
+>
+> Both challenges ran almost in parallel, and both demanded a very methodical approach. But that's also where I learned things I never could have learned from a project that was already running smoothly.
 
 ---
 
@@ -538,7 +603,7 @@ The main issue was the unstable scripts, which had only a 60% success rate. I fo
 
 **Q: What is your expected salary?**  
 > Before I answer, could I ask what range you have in mind for this role? I'd like to make sure we're aligned from the start.
-> 
+>
 > For context, my current compensation is **IDR 15,000,000 gross per month** with no company benefits. The perks I receive come from the client side — free lunch, free parking, and free coffee. So naturally, my expectation would be above that figure, adjusted based on the responsibilities and benefits this position offers.
 
 ---
@@ -553,8 +618,58 @@ The main issue was the unstable scripts, which had only a 60% success rate. I fo
 
 ---
 
-**Q: How would you rate your English skills?**  
-> For written English, I'm quite proficient — comfortable with technical documentation, bug reports, and professional communication. For spoken English, I'm at an intermediate level. I can follow and hold technical conversations clearly, and I'm actively improving my verbal fluency.
+**Q: What's the difference between Playwright and Selenium in your experience?**  
+> Playwright is more modern — it has built-in auto-wait, out-of-the-box multi-browser support, and is more stable for async operations. Selenium is more mature with a wider ecosystem, but requires more configuration. I've used both in practice — Selenium at Asset Data Solution and Bank BRI, Playwright at Lion Parcel. For new projects, I'd lean toward Playwright: faster setup and noticeably fewer flaky tests.
+
+---
+
+**Q: How do you handle flaky tests?**  
+> I dealt with this directly at Lion Parcel. My first step is always to identify whether the flakiness comes from the script or the application itself. If it's the script, it's usually a timing issue — I replace hard sleeps with proper wait strategies. If it's the application, I document it and raise it with the developer. That systematic approach is what took the regression success rate from 60% to 90%.
+
+---
+
+**Q: How do you write a good test case?**  
+> A good test case is clear, atomic (one test, one purpose), and reproducible. I always make sure it has: a clear precondition, specific steps, a measurable expected result, and well-defined test data. I also make sure anyone on the team can run it without needing to ask me anything.
+
+---
+
+**Q: What is API testing and how do you approach it?**  
+> API testing is validating endpoints directly without going through the UI. I use Postman for manual and exploratory API testing, and Rest-Assured for automation. What I typically check: status codes, response body structure, response time, error handling, and data consistency between the API response and the database.
+
+---
+
+**Q: Have you ever disagreed with a developer about a bug?**  
+> Yes. There was a case where a developer considered something expected behavior, while I saw it as a clear deviation from the requirements. My approach was to go back to the requirement document or acceptance criteria as an objective reference. If documentation was unclear, I'd involve the product owner to make the call. I never let a technical disagreement become personal — we're on the same team.
+
+---
+
+**Q: Tell me about a mistake you made at work.**  
+> I once missed an edge case in a test scenario that slipped through to UAT. I reported it to my lead immediately — didn't wait to be asked. From that experience, I learned to always review test scenarios with a "what could go wrong" mindset, not just the happy path. I also started getting involved in requirement reviews earlier to catch gaps before scripting even begins.
+
+---
+
+**Q: How do you onboard onto a new project or technology?**  
+> I start by understanding the business domain before diving into the technical side. Then I study the system architecture, read existing test cases if available, and start small. At Lion Parcel, for example, I took time to understand the state of the existing scripts before refactoring anything — I didn't rewrite everything at once. Understanding why something was done a certain way helps avoid breaking things that still work.
+
+---
+
+**Q: How do you keep automation scripts maintainable over time?**  
+> I follow clean code principles — descriptive naming, no hardcoded values, separating test data from logic, and using patterns like Page Object Model. At Lion Parcel, one of the main reasons the success rate was low was because the old scripts had no clear structure. After refactoring with proper organization, maintaining them became significantly easier.
+
+---
+
+**Q: What does an ideal QA-Developer relationship look like to you?**  
+> Collaborative, not adversarial. QA isn't the team that catches developers doing something wrong — we share the same goal: a quality product. I always make sure my bug reports are constructive and informative, not just "this is broken." And I appreciate when developers come to me early to discuss their approach before coding — catching issues at that stage is far more efficient than finding them in testing.
+
+---
+
+**Q: Have you ever proposed a process improvement that the team adopted?**  
+> Yes, at Lion Parcel I proposed and designed an AI workflow for the automation migration and maintenance process. There was no clear standard for how to use AI in testing before I joined — I researched it, built the documentation, defined the skill roles and command structure, and eventually that workflow became the team's new standard.
+
+---
+
+**Q: What do you do if a critical bug is found on release day?**  
+> First: escalate immediately to the lead and developer — don't sit on it. Second: provide as much detail as possible — steps to reproduce, environment, severity, and business impact — so the team can assess it quickly. Third: participate in the discussion on whether to delay the release, push a hotfix, or implement a workaround. The decision belongs to the team, but QA's job is to make sure they have everything they need to make the right call.
 
 </details>
 
