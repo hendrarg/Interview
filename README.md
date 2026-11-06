@@ -1,8 +1,8 @@
 # 👋 Hendra Rizal Gunawan
 
-> **Software Development Engineer in Test (SDET)**  
+> **QA Engineer** · 5 Years Experience  
 > 📍 Jawa Barat, Indonesia &nbsp;|&nbsp; 📧 jendraljohn92@gmail.com &nbsp;|&nbsp; 📱 +62 812-2329-2457  
-> 🔗 [LinkedIn](https://www.linkedin.com/in/hendra-rizal-gunawan) &nbsp;|&nbsp; 🌐 [hendrarg.github.io](https://hendrarg.github.io)
+> 🔗 [LinkedIn](https://www.linkedin.com/in/hendra-rizal-gunawan) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/hendrarg) &nbsp;|&nbsp; 🌐 [hendrarg.github.io](https://hendrarg.github.io)
 
 ---
 
@@ -14,16 +14,17 @@
 <details>
 <summary><b>👤 Perkenalan & Pengalaman</b></summary>
 
-Perkenalkan, nama saya **Hendra Rizal Gunawan** — biasa dipanggil **Hendra**. Asli dari **Pangandaran, Jawa Barat**, sekarang tinggal di **Jakarta Barat** karena pekerjaan saya memang berbasis di sana secara onsite. Latar belakang pendidikan saya dari **Universitas BSI Bandung, jurusan Sistem Informasi (S1)**, dan saya juga aktif di komunitas **ISQA (Indonesia Software Quality Assurance)**.
+Perkenalkan, nama saya **Hendra Rizal Gunawan** — biasa dipanggil **Hendra**. Saya berasal dari **Pangandaran, Jawa Barat**. Latar belakang pendidikan saya **D3 Manajemen Informatika, Universitas BSI Tasikmalaya (2017)** dan **S1 Sistem Informasi, Universitas BSI Bandung (2019)**. Saya juga aktif di komunitas **ISQA (Indonesia Software Quality Assurance)**.
 
-Saya bekerja sebagai **SDET** — Software Development Engineer in Test — dengan pengalaman lebih dari **5 tahun** di bidang quality assurance dan automation testing. Selama itu, saya sudah bekerja di tiga perusahaan dengan domain yang berbeda-beda: manajemen aset, perbankan (issuing), dan logistik.
+Saya **QA Engineer** dengan pengalaman **5 tahun** di software quality assurance dan test automation, melintasi domain **fintech, perbankan, logistik, dan produk digital**. Saya berpengalaman di manual, automation, performance, end-to-end, dan API testing, serta merancang arsitektur dan framework automation yang maintainable. Saya terbiasa dengan **Playwright**, delivery **Agile dan Scrum**, dan workflow QA berbantuan AI yang meningkatkan cakupan tes, kepercayaan rilis, dan produktivitas tim.
 
 Di setiap perusahaan, saya tidak hanya menjalankan testing — saya juga ikut membangun prosesnya, dari menulis automation framework, mencari solusi untuk sistem yang sulit diotomasi, hingga mengintegrasikan AI ke dalam workflow QA sehari-hari.
 
 ---
 
-### 🌏 SQA — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset*
+### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
+> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
 
 Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri.
 
@@ -32,35 +33,37 @@ Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA d
 - Membuat test plan, test case, dan test scenario untuk seluruh fitur (Asset Data, Inventory, Helpdesk, Insurance Claim)
 - Menjalankan smoke, integration, acceptance, dan regression testing secara rutin
 - Performance testing menggunakan **K6** untuk mengukur skalabilitas sistem
-- Cross-platform mobile testing (Android & iOS) dan web/desktop testing
-- Database testing menggunakan DBeaver dan dokumentasi bug di Jira
+- Cross-platform mobile testing (Android & iOS), web testing, database testing, dan API testing
+- Dokumentasi dan pelaporan bug di Jira
 
 **Pencapaian:**
-> 🏆 Membangun automation framework pertama di perusahaan dari nol — menjadi fondasi proses QA yang digunakan tim hingga akhir kontrak.
+> 🏆 Membangun praktik QA automation perusahaan dari nol, beserta framework yang dipakai sepanjang siklus proyek.
 
 ---
 
-### 🏦 QA Automation — Bank BRI *(Mei 2024 – September 2025)*
-> *under Talent Tech · Project: Ocean — Modernisasi Sistem Kartu Kredit*
+### 🏦 QA Automation Engineer — Bank BRI *(Mei 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Issuing*  
+> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
 
 Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop application** yang tidak memiliki element identifier yang bisa di-inspect secara konvensional. Saya menggunakan **pendekatan RPA** — mengotomasi aplikasi melalui kontrol mouse dan keyboard secara langsung, tanpa bergantung pada DOM atau element selector.
 
 **Kontribusi & Day-to-Day:**
-- Membuat automation script untuk **N2N testing** menggunakan Katalon Studio dengan pendekatan RPA (mouse & keyboard automation) untuk desktop app yang tidak bisa diakses via selector biasa
-- API testing menggunakan Postman dan database validation menggunakan DBeaver
-- SIT dan support UAT untuk fitur Onboarding Card & Client, Transaction, Data Limit, dan Maintenance
-- Regression testing rutin setiap sprint dan maintenance script automation
+- Membangun script otomasi **N2N dan API** dengan **Katalon Studio** dan **Cucumber BDD**, termasuk pendekatan RPA (mouse & keyboard) untuk desktop app yang tidak bisa diakses via selector biasa
+- SIT dan support UAT di seluruh modul fitur
+- Sprint sanity testing, maintenance script automation, validasi database (DBeaver), dan API testing (Postman)
+- Testing **Android, web, dan desktop**
 - Aktif dalam DSU, sprint planning, review, dan retrospective
 
 **Pencapaian:**
-> 🏆 Berhasil mengotomasi desktop application tanpa element selector menggunakan pendekatan RPA — solusi kreatif untuk sistem legacy yang tidak mendukung automation konvensional.
+> 🏆 Menyelesaikan cakupan otomasi N2N penuh untuk aplikasi desktop legacy tanpa element selector, menggunakan pendekatan RPA.
 
 ---
 
-### 🏢 SDET — Lion Parcel *(Oktober 2025 – Sekarang)*
-> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*
+### 🏢 SDET — Lion Parcel *(Oktober 2025 – Mei 2026)*
+> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*  
+> *Features: Booking and Configuration*
 
-Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya menghadapi dua tantangan besar sekaligus: **memperbaiki automation yang sudah rusak** dan **membangun pendekatan baru berbasis AI**.
+Di peran ini saya menghadapi dua tantangan besar sekaligus: **memperbaiki automation yang sudah rusak** dan **membangun pendekatan baru berbasis AI**.
 
 **Kontribusi & Day-to-Day:**
 - **Refactoring Robot Framework** — mengidentifikasi root cause flaky dan bloated code yang menyebabkan regression success rate hanya 60%, lalu melakukan refactor sistematis hingga **success rate naik ke 90%**
@@ -74,6 +77,55 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 > 🏆 Menaikkan regression success rate dari **60% → 90%** melalui refactoring Robot Framework yang sistematis.  
 > 🏆 Memimpin migrasi Robot → Playwright berbasis AI dengan merancang workflow, skill role, dan command structure sendiri — pendekatan yang menjadi standar baru tim.
 
+---
+
+### 🎥 QA Engineer — Yapp *(Juni 2026 – Sekarang)*
+> *Project: All-in-one Content Creator Monetization Platform*  
+> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
+
+Ini peran saya saat ini, di platform monetisasi kreator.
+
+**Kontribusi & Day-to-Day:**
+- Manual, functional, regression, dan exploratory testing di seluruh alur kreator dan monetisasi
+- Merancang dan memelihara otomasi **end-to-end dan API dengan Playwright**, termasuk arsitektur automation, struktur framework, fixtures, utilities, dan pola test yang reusable
+- Performance testing untuk menilai responsiveness, skalabilitas, dan keandalan platform
+- Membangun workflow berbantuan AI yang mengubah **PRD** menjadi test case dan skenario terstruktur, memakai **Hermes Agent** untuk analisis dan eksekusi test
+- Kolaborasi dengan tim product dan engineering untuk validasi perbaikan dan meningkatkan kepercayaan rilis
+
+</details>
+
+---
+
+<details>
+<summary><b>🎓 Pendidikan, Sertifikasi & Keahlian</b></summary>
+
+### Pendidikan
+| Jenjang | Program | Institusi | Tahun |
+|---------|---------|-----------|-------|
+| **S1** | Sistem Informasi | Universitas BSI Bandung | 2019 |
+| **D3** | Manajemen Informatika | Universitas BSI Tasikmalaya | 2017 |
+
+### Sertifikasi
+- Test Automation with Katalon Studio (Selenium WebDriver) — Udemy
+- Appium — Mobile Testing Android/iOS — Udemy
+- Cypress with Cucumber BDD Automation Testing Bootcamp — Udemy
+- Playwright JS/TS Automation Testing from Scratch & Framework — Udemy
+
+### Technical Skills
+
+| Area | Tools |
+|------|-------|
+| **Automation** | Playwright · Selenium · Appium · Katalon Studio · Cypress · Robot Framework |
+| **BDD** | Cucumber (Playwright, Selenium, Appium, Cypress, Katalon) |
+| **Performance** | K6 · JMeter |
+| **API Testing** | Postman · Rest-Assured · cURL |
+| **Languages** | JavaScript · TypeScript · Java · Python |
+| **Database** | SQL · DBeaver |
+| **DevOps / CI-CD** | Git · Jenkins · GitHub Actions · Pipeline |
+| **AI Tools** | Prompt Engineering · AI-driven test generation · AI workflow design · Skill role & command structure |
+| **Testing Types** | Functional · Regression · Smoke · Integration · UAT · Performance · Load · API · Mobile · Desktop · Security (Basic) |
+| **Project Tools** | Jira · Agile / Scrum · Kanban · Sprint |
+
 </details>
 
 ---
@@ -81,14 +133,14 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 <details>
 <summary><b>🙋 FAQ Interview</b></summary>
 
-**Q: Apa aktivitas harian Anda sebagai SDET? (Day-to-day activities)**  
-> Hari-hari saya biasanya dimulai dengan daily standup bersama tim untuk update progress dan blocker. Setelah itu, aktivitas utama saya mencakup:
-> - Menulis dan memaintain automation script (Playwright/Robot Framework)
-> - Melakukan regression testing setelah ada perubahan kode
-> - Review test scenario untuk fitur baru bersama developer dan product owner
-> - Database validation dan API testing untuk memastikan data konsisten di backend
-> - Mendokumentasikan bug dan berkolaborasi dengan developer untuk triage
-> - Sesekali mengeksplorasi tools AI baru untuk meningkatkan efisiensi testing
+**Q: Apa aktivitas harian Anda sebagai QA Engineer? (Day-to-day activities)**  
+> Di **Yapp**, hari saya biasanya dimulai dengan sinkronisasi progress dan blocker bersama tim. Setelah itu, aktivitas utama saya mencakup:
+> - Manual, functional, regression, dan exploratory testing pada alur kreator dan monetisasi
+> - Menulis dan memelihara otomasi end-to-end dan API dengan **Playwright** (arsitektur, fixtures, utilities, dan pola test yang reusable)
+> - Performance testing untuk responsiveness, skalabilitas, dan keandalan platform
+> - Mengubah PRD menjadi test case dan skenario terstruktur dengan **Hermes Agent**
+> - Validasi perbaikan bersama product dan engineering agar rilis lebih terpercaya
+> - Di peran sebelumnya, saya juga melakukan database validation, API testing, dan maintenance suite Robot Framework / Playwright
 
 ---
 
@@ -106,7 +158,7 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Mengapa Anda meninggalkan pekerjaan sebelumnya?**  
-> Perpindahan saya bukan karena ketidakpuasan, tapi karena sifat pekerjaan saya yang memang berbasis project. Ketika satu project selesai, kontrak pun berakhir, dan saya melanjutkan ke project berikutnya. Kebetulan setiap perpindahan juga membawa saya ke domain dan tantangan yang berbeda — dari manajemen aset, ke perbankan, hingga logistik — yang justru memperkaya pengalaman dan skill saya sebagai SDET.
+> Perpindahan saya mengikuti siklus kerja berbasis proyek. Ketika satu proyek selesai, keterlibatan saya berakhir, lalu saya lanjut ke proyek berikutnya. Setiap perpindahan membawa domain yang berbeda — manajemen aset, perbankan (issuing), logistik, lalu produk digital — dan itu memperkaya pengalaman saya sebagai QA. Saat ini saya di **Yapp**, platform monetisasi kreator.
 
 ---
 
@@ -137,7 +189,7 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Apakah Anda berpengalaman bekerja dengan perusahaan asing?**  
-> Ya. Saya bekerja di Asset Data Solution Sdn Bhd (Malaysia) di mana semua komunikasi profesional dilakukan dalam Bahasa Inggris. Di Lion Parcel pun saya berkolaborasi dengan tim lintas fungsi menggunakan Bahasa Inggris.
+> Ya. Saya bekerja di Asset Data Solution Sdn Bhd (Malaysia), dan komunikasi profesional di sana dilakukan dalam Bahasa Inggris. Di Lion Parcel saya juga berkolaborasi lintas fungsi dalam Bahasa Inggris.
 
 ---
 
@@ -159,7 +211,7 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Apa perbedaan Playwright dan Selenium menurutmu?**  
-> Playwright lebih modern — built-in auto-wait, support multi-browser out of the box, dan lebih stabil untuk async operation. Selenium lebih mature dan punya ekosistem yang lebih luas, tapi butuh konfigurasi lebih banyak. Dari pengalaman langsung saya pakai keduanya — Selenium di Asset Data Solution dan Bank BRI, Playwright di Lion Parcel. Untuk proyek baru, saya lebih pilih Playwright karena setup lebih cepat dan lebih sedikit flaky test.
+> Playwright lebih modern — built-in auto-wait, support multi-browser out of the box, dan lebih stabil untuk async operation. Selenium lebih mature dan punya ekosistem yang lebih luas, tapi butuh konfigurasi lebih banyak. Dari pengalaman langsung saya pakai keduanya — Selenium di Asset Data Solution, Katalon di Bank BRI, lalu Playwright di Lion Parcel dan sekarang di Yapp untuk otomasi end-to-end dan API. Untuk proyek baru, saya lebih pilih Playwright karena setup lebih cepat dan lebih sedikit flaky test.
 
 ---
 
@@ -204,7 +256,7 @@ Ini adalah peran saya yang paling teknikal dan impactful sejauh ini. Saya mengha
 ---
 
 **Q: Apakah kamu pernah mengusulkan perbaikan proses yang diadopsi tim?**  
-> Ya, di Lion Parcel saya mengusulkan dan merancang AI workflow untuk proses migrasi dan maintenance automation. Sebelumnya tidak ada standar yang jelas bagaimana menggunakan AI untuk testing — saya yang research, buat dokumentasinya, dan akhirnya workflow itu jadi standar baru tim.
+> Ya. Di Lion Parcel saya merancang AI workflow untuk migrasi dan maintenance automation — skill role, command structure, dan context management — sampai workflow itu jadi standar tim. Di Yapp saya membangun workflow yang mengubah PRD menjadi test case dan skenario terstruktur, dengan Hermes Agent untuk mendukung analisis dan eksekusi test.
 
 ---
 
@@ -268,7 +320,7 @@ Kombinasi black box dan white box — tester **memiliki pengetahuan parsial** te
 
 | Tipe | Deskripsi | Tools |
 |------|-----------|-------|
-| **Functional Testing** | Memvalidasi fungsi sesuai requirement | Playwright, Selenium, Katalon |
+| **Functional Testing** | Memvalidasi fungsi sesuai requirement | Playwright, Selenium, Katalon, Cypress |
 | **Performance Testing** | Mengukur kecepatan, stabilitas, dan skalabilitas | K6, JMeter |
 | **Load Testing** | Menguji sistem di bawah beban normal dan puncak | K6 |
 | **Stress Testing** | Menguji batas kemampuan sistem | K6, JMeter |
@@ -353,12 +405,12 @@ Pendekatan di mana testing dimulai **sedini mungkin** dalam siklus development, 
 **Framework yang saya gunakan:**
 | Use Case | Tools |
 |----------|-------|
-| Web E2E | Playwright, Selenium, Katalon |
+| Web E2E | Playwright, Selenium, Katalon, Cypress, Robot Framework |
 | Mobile | Appium + Cucumber |
-| API | Postman, Rest-Assured |
+| API | Postman, Rest-Assured, cURL |
 | Performance | K6, JMeter |
-| BDD | Cucumber (dengan semua framework di atas) |
-| CI/CD | Jenkins, GitHub Actions |
+| BDD | Cucumber (Playwright, Selenium, Appium, Cypress, Katalon) |
+| CI/CD | Git, Jenkins, GitHub Actions, Pipeline |
 
 ---
 
@@ -474,65 +526,115 @@ Ini adalah dua konsep yang **sering disamakan tapi berbeda** — salah satu pert
 <details>
 <summary><b>👤 Introduction & Experience</b></summary>
 
-Hi, I'm **Hendra Rizal Gunawan** — just call me **Hendra**. I'm originally from **Pangandaran, West Java**, and currently living in **West Jakarta** since my job is onsite there. I have a **Bachelor's degree in Information Systems from Universitas BSI Bandung**, and I'm also an active member of **ISQA (Indonesia Software Quality Assurance)**, a local QA community I enjoy being part of.
+Hi, I'm **Hendra Rizal Gunawan** — just call me **Hendra**. I'm from **Pangandaran, West Java, Indonesia**. I hold a **D3 in Informatics Management from Universitas BSI Tasikmalaya (2017)** and a **Bachelor's degree in Information Systems from Universitas BSI Bandung (2019)**. I'm also an active member of **ISQA (Indonesia Software Quality Assurance)**.
 
-I work as an **SDET** — Software Development Engineer in Test — with over **5 years of experience** in quality assurance and test automation. Over that time, I've worked across three companies in quite different domains: asset management, banking (issuing), and logistics.
+I'm a **QA Engineer** with **5 years of experience** in software quality assurance and test automation across **fintech, banking, logistics, and digital product** domains. I work across manual, automation, performance, end-to-end, and API testing, and I design maintainable automation architecture and frameworks. I'm skilled in **Playwright**, **Agile and Scrum** delivery, and AI-assisted QA workflows that improve test coverage, release confidence, and team productivity.
 
 In each role, I didn't just run tests — I helped build the process too. From writing automation frameworks from scratch, finding creative solutions for systems that resist conventional automation, to integrating AI into everyday QA workflows.
 
 ---
 
-### 🌏 SQA — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset*
+### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
+> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
 
 This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself.
 
 **Day-to-Day & Contributions:**
 - Built the company's first automation framework from zero using **Selenium, Appium, and Rest-Assured**
-- Created test plans, test cases, and test scenarios for all modules (Asset Data, Inventory, Helpdesk, Insurance Claim)
-- Executed smoke, integration, acceptance, and regression testing consistently each sprint
+- Created test plans, test cases, and test scenarios for all modules from zero
+- Executed smoke, integration, acceptance, and regression testing each sprint
 - Performance testing using **K6** to measure system scalability under load
-- Cross-platform mobile testing (Android & iOS), web and desktop testing
-- Database testing with DBeaver and bug documentation in Jira
+- Cross-platform mobile testing (Android and iOS), web testing, database testing, and API testing
+- Documented and reported bugs in Jira
 
 **Achievement:**
-> 🏆 Built the company's first automation framework entirely from scratch — establishing the QA foundation that the team relied on throughout the project lifecycle.
+> 🏆 Built the company's QA automation practice from zero and established the framework used throughout the project lifecycle.
 
 ---
 
-### 🏦 QA Automation — Bank BRI *(May 2024 – September 2025)*
-> *under Talent Tech · Project: Ocean — Credit Card System Modernization*
+### 🏦 QA Automation Engineer — Bank BRI *(May 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Issuing*  
+> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
 
 Here I faced a unique technical challenge: automating a **desktop application with no inspectable element identifiers**. I solved this using an **RPA approach** — automating the application entirely through direct mouse and keyboard control, bypassing the need for DOM selectors or UI element locators entirely.
 
 **Day-to-Day & Contributions:**
-- Built automation scripts for **N2N testing** using Katalon Studio with an **RPA approach** (mouse & keyboard automation) for legacy desktop apps that couldn't be accessed via conventional selectors
-- API testing with Postman and database validation with DBeaver
-- SIT and UAT support for Onboarding Card & Client, Transaction, Data Limit, and Maintenance features
-- Regression testing every sprint and script maintenance
+- Built **N2N and API** automation scripts using **Katalon Studio** with **Cucumber BDD**, including an RPA approach (mouse and keyboard) for a legacy desktop app that couldn't be accessed via conventional selectors
+- Conducted SIT and supported UAT across all feature modules
+- Sprint sanity testing, automation maintenance, database validation (DBeaver), and API testing (Postman)
+- Android mobile, web, and desktop testing
 - Active participation in DSU, sprint planning, review, and retrospective
 
 **Achievement:**
-> 🏆 Successfully automated a legacy desktop application without any element selectors — using an RPA-based approach as a creative solution where conventional automation was not possible.
+> 🏆 Delivered full N2N automation coverage for a legacy desktop app with no element selectors, using an RPA approach.
 
 ---
 
-### 🏢 SDET — Lion Parcel *(October 2025 – Present)*
-> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*
+### 🏢 SDET — Lion Parcel *(October 2025 – May 2026)*
+> *under MSBU · Project: Genesis & Liberta — Integrated Logistics & Shipment Management System*  
+> *Features: Booking and Configuration*
 
-My most technically demanding and impactful role to date. I tackled two major challenges simultaneously: **rescuing a broken automation suite** and **pioneering an AI-first automation approach** for the team.
+In this role I tackled two major challenges at once: **rescuing a broken automation suite** and **pioneering an AI-first automation approach** for the team.
 
 **Day-to-Day & Contributions:**
-- **Refactored Robot Framework test suite** — identified root causes of flaky and bloated code that caused the regression success rate to sit at only 60%, performed systematic refactoring that **raised the success rate from 60% to 90%**
-- **Led the Robot → Playwright migration** — drove the migration of automation scripts from Robot Framework to Playwright using AI assistance, including designing the prompt strategy and AI workflow so that migration output was accurate and maintainable
-- **Researched and built an AI workflow** for automation testing — including designing skill roles, command structures, and context management rules to ensure AI operates consistently within the team's quality standards
-- Created new automation scripts for web, API, and mobile testing
-- Database testing, API testing, regression, and tech debt handling
-- Weekly meetings and cross-functional collaboration
+- **Refactored Robot Framework** — identified root causes of flaky and bloated code that left the regression success rate at 60%, then refactored systematically until it reached **90%**
+- **Migrated automation scripts from Robot Framework to Playwright** using AI assistance, including prompt strategies and AI workflows
+- **Designed an AI workflow** for automation with skill roles, command structures, and context management rules, and it became a team standard
+- Created automation scripts for web, API, and mobile testing; performed database, API, regression, and tech debt testing
 
 **Achievements:**
-> 🏆 Raised regression success rate from **60% → 90%** through systematic Robot Framework refactoring — eliminating flakiness and reducing bloated code.  
-> 🏆 Pioneered an AI-assisted migration from Robot → Playwright, including researching and building the AI workflow (skill roles, command structure, context rules) that became the team's new standard.
+> 🏆 Raised regression success rate from **60% to 90%** through systematic Robot Framework refactoring.  
+> 🏆 Pioneered an AI-assisted Robot to Playwright migration with a self-designed workflow and command structure.
+
+---
+
+### 🎥 QA Engineer — Yapp *(June 2026 – Present)*
+> *Project: All-in-one Content Creator Monetization Platform*  
+> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
+
+This is my current role, on a creator monetization platform.
+
+**Day-to-Day & Contributions:**
+- Execute comprehensive manual, functional, regression, and exploratory testing across creator and monetization workflows
+- Design and maintain **end-to-end and API automation using Playwright**, including the automation architecture, framework structure, fixtures, utilities, and reusable test patterns
+- Perform performance testing to assess responsiveness, scalability, and platform reliability
+- Build an AI-assisted workflow that turns **PRDs** into structured test cases and scenarios, using **Hermes Agent** to support test analysis and execution
+- Collaborate with product and engineering teams to validate fixes and improve release confidence
+
+</details>
+
+---
+
+<details>
+<summary><b>🎓 Education, Certifications & Skills</b></summary>
+
+### Education
+| Level | Program | Institution | Year |
+|-------|---------|-------------|------|
+| **S1** | Information Systems | Universitas BSI Bandung | 2019 |
+| **D3** | Informatics Management | Universitas BSI Tasikmalaya | 2017 |
+
+### Certifications
+- Test Automation with Katalon Studio (Selenium WebDriver) — Udemy
+- Appium — Mobile Testing Android/iOS — Udemy
+- Cypress with Cucumber BDD Automation Testing Bootcamp — Udemy
+- Playwright JS/TS Automation Testing from Scratch & Framework — Udemy
+
+### Technical Skills
+
+| Area | Tools |
+|------|-------|
+| **Automation** | Playwright · Selenium · Appium · Katalon Studio · Cypress · Robot Framework |
+| **BDD** | Cucumber (integrated with Playwright, Selenium, Appium, Cypress, Katalon) |
+| **Performance** | K6 · JMeter |
+| **API Testing** | Postman · Rest-Assured · cURL |
+| **Languages** | JavaScript · TypeScript · Java · Python |
+| **Database** | SQL · DBeaver |
+| **DevOps / CI-CD** | Git · Jenkins · GitHub Actions · Pipeline |
+| **AI Tools** | Prompt Engineering · AI-driven test generation · AI workflow design · Skill role & command structure |
+| **Testing Types** | Functional · Regression · Smoke · Integration · UAT · Performance · Load · API · Mobile · Desktop · Security (Basic) |
+| **Project Tools** | Jira · Agile / Scrum · Kanban · Sprint |
 
 </details>
 
@@ -541,14 +643,14 @@ My most technically demanding and impactful role to date. I tackled two major ch
 <details>
 <summary><b>🙋 Interview FAQ</b></summary>
 
-**Q: What does your day-to-day look like as an SDET?**  
-> My day usually starts with a daily standup to sync on progress and blockers. From there, my core activities include:
-> - Writing and maintaining automation scripts (Playwright / Robot Framework)
-> - Running regression tests after code changes
-> - Reviewing test scenarios for new features alongside developers and product owners
-> - Database validation and API testing to ensure backend data consistency
-> - Documenting bugs and collaborating with developers during triage
-> - Exploring new AI tools to improve testing efficiency
+**Q: What does your day-to-day look like as a QA Engineer?**  
+> At **Yapp**, my day usually starts by syncing on progress and blockers with the team. From there, my core activities include:
+> - Manual, functional, regression, and exploratory testing across creator and monetization workflows
+> - Writing and maintaining end-to-end and API automation in **Playwright** (architecture, fixtures, utilities, and reusable test patterns)
+> - Performance testing for responsiveness, scalability, and platform reliability
+> - Turning PRDs into structured test cases and scenarios with **Hermes Agent**
+> - Validating fixes with product and engineering so releases go out with more confidence
+> - In earlier roles I also did database validation, API testing, and Robot Framework / Playwright suite maintenance
 
 ---
 
@@ -566,7 +668,7 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: Why did you leave your previous job?**  
-> My moves weren't about dissatisfaction — they were simply the nature of project-based work. When a project ends, the contract ends, and I move on to the next one. Each transition happened to bring me to a different domain — asset management, banking, then logistics — which ended up broadening my experience and strengthening me as an SDET more than staying in one place ever could.
+> My moves followed project-based work. When a project ends, the engagement ends, and I move on to the next one. Each transition brought a different domain — asset management, banking (issuing), logistics, then digital products — which broadened my experience as a QA. I'm currently at **Yapp**, a creator monetization platform.
 
 ---
 
@@ -597,7 +699,7 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: Have you worked with a foreign company?**  
-> Yes. I worked at Asset Data Solution Sdn Bhd, a Malaysia-based company, where all professional communication was conducted in English. I also collaborate with cross-functional teams in English in my current role.
+> Yes. I worked at Asset Data Solution Sdn Bhd, a Malaysia-based company, where professional communication was in English. At Lion Parcel I also collaborated with cross-functional teams in English.
 
 ---
 
@@ -619,7 +721,7 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: What's the difference between Playwright and Selenium in your experience?**  
-> Playwright is more modern — it has built-in auto-wait, out-of-the-box multi-browser support, and is more stable for async operations. Selenium is more mature with a wider ecosystem, but requires more configuration. I've used both in practice — Selenium at Asset Data Solution and Bank BRI, Playwright at Lion Parcel. For new projects, I'd lean toward Playwright: faster setup and noticeably fewer flaky tests.
+> Playwright is more modern — it has built-in auto-wait, out-of-the-box multi-browser support, and is more stable for async operations. Selenium is more mature with a wider ecosystem, but requires more configuration. I've used both in practice — Selenium at Asset Data Solution, Katalon at Bank BRI, then Playwright at Lion Parcel and now at Yapp for end-to-end and API automation. For new projects, I'd lean toward Playwright: faster setup and noticeably fewer flaky tests.
 
 ---
 
@@ -664,7 +766,7 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 **Q: Have you ever proposed a process improvement that the team adopted?**  
-> Yes, at Lion Parcel I proposed and designed an AI workflow for the automation migration and maintenance process. There was no clear standard for how to use AI in testing before I joined — I researched it, built the documentation, defined the skill roles and command structure, and eventually that workflow became the team's new standard.
+> Yes. At Lion Parcel I designed an AI workflow for automation migration and maintenance — skill roles, command structure, and context management — and that workflow became the team standard. At Yapp I built a workflow that turns PRDs into structured test cases and scenarios, using Hermes Agent to support test analysis and execution.
 
 ---
 
@@ -678,5 +780,5 @@ My most technically demanding and impactful role to date. I tackled two major ch
 ---
 
 <p align="center">
-  <i>This README was created for interview purposes. Last updated: April 2026.</i>
+  <i>This README was created for interview purposes. Last updated: November 2026.</i>
 </p>
