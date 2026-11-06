@@ -22,40 +22,18 @@ Di setiap perusahaan, saya tidak hanya menjalankan testing — saya juga ikut me
 
 ---
 
-### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset — Asset Management System*  
-> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
+### 🎥 QA Engineer — Yapp *(Juni 2026 – Sekarang)*
+> *Project: All-in-one Content Creator Monetization Platform*  
+> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
 
-Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri.
+Ini peran saya saat ini, di platform monetisasi kreator.
 
-**Kontribusi & Day-to-Day:**
-- Membangun automation framework dari nol menggunakan **Selenium, Appium, dan Rest-Assured**
-- Membuat test plan, test case, dan test scenario untuk seluruh fitur (Asset Data, Inventory, Helpdesk, Insurance Claim)
-- Menjalankan smoke, integration, acceptance, dan regression testing secara rutin
-- Performance testing menggunakan **K6** untuk mengukur skalabilitas sistem
-- Cross-platform mobile testing (Android & iOS), web testing, database testing, dan API testing
-- Dokumentasi dan pelaporan bug di Jira
-
-**Pencapaian:**
-> 🏆 Membangun praktik QA automation perusahaan dari nol, beserta framework yang dipakai sepanjang siklus proyek.
-
----
-
-### 🏦 QA Automation Engineer — Bank BRI *(Mei 2024 – September 2025)*
-> *under Talent Tech · Project: Ocean — Issuing*  
-> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
-
-Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop application** yang tidak memiliki element identifier yang bisa di-inspect secara konvensional. Saya menggunakan **pendekatan RPA** — mengotomasi aplikasi melalui kontrol mouse dan keyboard secara langsung, tanpa bergantung pada DOM atau element selector.
-
-**Kontribusi & Day-to-Day:**
-- Membangun script otomasi **N2N dan API** dengan **Katalon Studio** dan **Cucumber BDD**, termasuk pendekatan RPA (mouse & keyboard) untuk desktop app yang tidak bisa diakses via selector biasa
-- SIT dan support UAT di seluruh modul fitur
-- Sprint sanity testing, maintenance script automation, validasi database (DBeaver), dan API testing (Postman)
-- Testing **Android, web, dan desktop**
-- Aktif dalam DSU, sprint planning, review, dan retrospective
-
-**Pencapaian:**
-> 🏆 Menyelesaikan cakupan otomasi N2N penuh untuk aplikasi desktop legacy tanpa element selector, menggunakan pendekatan RPA.
+**Responsibility & Day-to-Day:**
+- Manual, functional, regression, dan exploratory testing di seluruh alur kreator dan monetisasi
+- Merancang dan memelihara otomasi **end-to-end dan API dengan Playwright**, termasuk arsitektur automation, struktur framework, fixtures, utilities, dan pola test yang reusable
+- Performance testing untuk menilai responsiveness, skalabilitas, dan keandalan platform
+- Membangun workflow berbantuan AI yang mengubah **PRD** menjadi test case dan skenario terstruktur, memakai **Hermes Agent** untuk analisis dan eksekusi test
+- Kolaborasi dengan tim product dan engineering untuk validasi perbaikan dan meningkatkan kepercayaan rilis
 
 ---
 
@@ -65,7 +43,7 @@ Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop appl
 
 Di peran ini saya menghadapi dua tantangan besar sekaligus: **memperbaiki automation yang sudah rusak** dan **membangun pendekatan baru berbasis AI**.
 
-**Kontribusi & Day-to-Day:**
+**Responsibility & Day-to-Day:**
 - **Refactoring Robot Framework** — mengidentifikasi root cause flaky dan bloated code yang menyebabkan regression success rate hanya 60%, lalu melakukan refactor sistematis hingga **success rate naik ke 90%**
 - **Migrasi Robot → Playwright** — memimpin migrasi script automation dari Robot Framework ke Playwright menggunakan bantuan AI, termasuk merancang prompt strategy dan workflow AI yang tepat agar hasil migrasi akurat dan maintainable
 - Melakukan **riset mendalam tentang AI workflow** untuk automation testing — termasuk membuat skill role, command structure, dan context management agar AI bisa bekerja secara konsisten sesuai standar tim
@@ -79,18 +57,40 @@ Di peran ini saya menghadapi dua tantangan besar sekaligus: **memperbaiki automa
 
 ---
 
-### 🎥 QA Engineer — Yapp *(Juni 2026 – Sekarang)*
-> *Project: All-in-one Content Creator Monetization Platform*  
-> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
+### 🏦 QA Automation Engineer — Bank BRI *(Mei 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Issuing*  
+> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
 
-Ini peran saya saat ini, di platform monetisasi kreator.
+Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop application** yang tidak memiliki element identifier yang bisa di-inspect secara konvensional. Saya menggunakan **pendekatan RPA** — mengotomasi aplikasi melalui kontrol mouse dan keyboard secara langsung, tanpa bergantung pada DOM atau element selector.
 
-**Kontribusi & Day-to-Day:**
-- Manual, functional, regression, dan exploratory testing di seluruh alur kreator dan monetisasi
-- Merancang dan memelihara otomasi **end-to-end dan API dengan Playwright**, termasuk arsitektur automation, struktur framework, fixtures, utilities, dan pola test yang reusable
-- Performance testing untuk menilai responsiveness, skalabilitas, dan keandalan platform
-- Membangun workflow berbantuan AI yang mengubah **PRD** menjadi test case dan skenario terstruktur, memakai **Hermes Agent** untuk analisis dan eksekusi test
-- Kolaborasi dengan tim product dan engineering untuk validasi perbaikan dan meningkatkan kepercayaan rilis
+**Responsibility & Day-to-Day:**
+- Membangun script otomasi **N2N dan API** dengan **Katalon Studio** dan **Cucumber BDD**, termasuk pendekatan RPA (mouse & keyboard) untuk desktop app yang tidak bisa diakses via selector biasa
+- SIT dan support UAT di seluruh modul fitur
+- Sprint sanity testing, maintenance script automation, validasi database (DBeaver), dan API testing (Postman)
+- Testing **Android, web, dan desktop**
+- Aktif dalam DSU, sprint planning, review, dan retrospective
+
+**Pencapaian:**
+> 🏆 Menyelesaikan cakupan otomasi N2N penuh untuk aplikasi desktop legacy tanpa element selector, menggunakan pendekatan RPA.
+
+---
+
+### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
+> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
+
+Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri.
+
+**Responsibility & Day-to-Day:**
+- Membangun automation framework dari nol menggunakan **Selenium, Appium, dan Rest-Assured**
+- Membuat test plan, test case, dan test scenario untuk seluruh fitur (Asset Data, Inventory, Helpdesk, Insurance Claim)
+- Menjalankan smoke, integration, acceptance, dan regression testing secara rutin
+- Performance testing menggunakan **K6** untuk mengukur skalabilitas sistem
+- Cross-platform mobile testing (Android & iOS), web testing, database testing, dan API testing
+- Dokumentasi dan pelaporan bug di Jira
+
+**Pencapaian:**
+> 🏆 Membangun praktik QA automation perusahaan dari nol, beserta framework yang dipakai sepanjang siklus proyek.
 
 </details>
 
@@ -534,40 +534,18 @@ In each role, I didn't just run tests — I helped build the process too. From w
 
 ---
 
-### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset — Asset Management System*  
-> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
+### 🎥 QA Engineer — Yapp *(June 2026 – Present)*
+> *Project: All-in-one Content Creator Monetization Platform*  
+> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
 
-This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself.
+This is my current role, on a creator monetization platform.
 
-**Day-to-Day & Contributions:**
-- Built the company's first automation framework from zero using **Selenium, Appium, and Rest-Assured**
-- Created test plans, test cases, and test scenarios for all modules from zero
-- Executed smoke, integration, acceptance, and regression testing each sprint
-- Performance testing using **K6** to measure system scalability under load
-- Cross-platform mobile testing (Android and iOS), web testing, database testing, and API testing
-- Documented and reported bugs in Jira
-
-**Achievement:**
-> 🏆 Built the company's QA automation practice from zero and established the framework used throughout the project lifecycle.
-
----
-
-### 🏦 QA Automation Engineer — Bank BRI *(May 2024 – September 2025)*
-> *under Talent Tech · Project: Ocean — Issuing*  
-> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
-
-Here I faced a unique technical challenge: automating a **desktop application with no inspectable element identifiers**. I solved this using an **RPA approach** — automating the application entirely through direct mouse and keyboard control, bypassing the need for DOM selectors or UI element locators entirely.
-
-**Day-to-Day & Contributions:**
-- Built **N2N and API** automation scripts using **Katalon Studio** with **Cucumber BDD**, including an RPA approach (mouse and keyboard) for a legacy desktop app that couldn't be accessed via conventional selectors
-- Conducted SIT and supported UAT across all feature modules
-- Sprint sanity testing, automation maintenance, database validation (DBeaver), and API testing (Postman)
-- Android mobile, web, and desktop testing
-- Active participation in DSU, sprint planning, review, and retrospective
-
-**Achievement:**
-> 🏆 Delivered full N2N automation coverage for a legacy desktop app with no element selectors, using an RPA approach.
+**Responsibility & Day-to-Day:**
+- Execute comprehensive manual, functional, regression, and exploratory testing across creator and monetization workflows
+- Design and maintain **end-to-end and API automation using Playwright**, including the automation architecture, framework structure, fixtures, utilities, and reusable test patterns
+- Perform performance testing to assess responsiveness, scalability, and platform reliability
+- Build an AI-assisted workflow that turns **PRDs** into structured test cases and scenarios, using **Hermes Agent** to support test analysis and execution
+- Collaborate with product and engineering teams to validate fixes and improve release confidence
 
 ---
 
@@ -577,7 +555,7 @@ Here I faced a unique technical challenge: automating a **desktop application wi
 
 In this role I tackled two major challenges at once: **rescuing a broken automation suite** and **pioneering an AI-first automation approach** for the team.
 
-**Day-to-Day & Contributions:**
+**Responsibility & Day-to-Day:**
 - **Refactored Robot Framework** — identified root causes of flaky and bloated code that left the regression success rate at 60%, then refactored systematically until it reached **90%**
 - **Migrated automation scripts from Robot Framework to Playwright** using AI assistance, including prompt strategies and AI workflows
 - **Designed an AI workflow** for automation with skill roles, command structures, and context management rules, and it became a team standard
@@ -589,18 +567,40 @@ In this role I tackled two major challenges at once: **rescuing a broken automat
 
 ---
 
-### 🎥 QA Engineer — Yapp *(June 2026 – Present)*
-> *Project: All-in-one Content Creator Monetization Platform*  
-> *Features: Online Course, Exclusive Content, Feed, Telegram Membership, Discord Membership, Consultations, Events and Tickets, Campaign, Membership, Livestream*
+### 🏦 QA Automation Engineer — Bank BRI *(May 2024 – September 2025)*
+> *under Talent Tech · Project: Ocean — Issuing*  
+> *Features: Onboarding Card & Client, Transaction, Data Limit, Maintenance, Reports*
 
-This is my current role, on a creator monetization platform.
+Here I faced a unique technical challenge: automating a **desktop application with no inspectable element identifiers**. I solved this using an **RPA approach** — automating the application entirely through direct mouse and keyboard control, bypassing the need for DOM selectors or UI element locators entirely.
 
-**Day-to-Day & Contributions:**
-- Execute comprehensive manual, functional, regression, and exploratory testing across creator and monetization workflows
-- Design and maintain **end-to-end and API automation using Playwright**, including the automation architecture, framework structure, fixtures, utilities, and reusable test patterns
-- Perform performance testing to assess responsiveness, scalability, and platform reliability
-- Build an AI-assisted workflow that turns **PRDs** into structured test cases and scenarios, using **Hermes Agent** to support test analysis and execution
-- Collaborate with product and engineering teams to validate fixes and improve release confidence
+**Responsibility & Day-to-Day:**
+- Built **N2N and API** automation scripts using **Katalon Studio** with **Cucumber BDD**, including an RPA approach (mouse and keyboard) for a legacy desktop app that couldn't be accessed via conventional selectors
+- Conducted SIT and supported UAT across all feature modules
+- Sprint sanity testing, automation maintenance, database validation (DBeaver), and API testing (Postman)
+- Android mobile, web, and desktop testing
+- Active participation in DSU, sprint planning, review, and retrospective
+
+**Achievement:**
+> 🏆 Delivered full N2N automation coverage for a legacy desktop app with no element selectors, using an RPA approach.
+
+---
+
+### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
+> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
+
+This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself.
+
+**Responsibility & Day-to-Day:**
+- Built the company's first automation framework from zero using **Selenium, Appium, and Rest-Assured**
+- Created test plans, test cases, and test scenarios for all modules from zero
+- Executed smoke, integration, acceptance, and regression testing each sprint
+- Performance testing using **K6** to measure system scalability under load
+- Cross-platform mobile testing (Android and iOS), web testing, database testing, and API testing
+- Documented and reported bugs in Jira
+
+**Achievement:**
+> 🏆 Built the company's QA automation practice from zero and established the framework used throughout the project lifecycle.
 
 </details>
 
