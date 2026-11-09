@@ -35,6 +35,10 @@ Ini peran saya saat ini, di platform monetisasi kreator.
 - Membangun workflow berbantuan AI yang mengubah **PRD** menjadi test case dan skenario terstruktur, memakai **Hermes Agent** untuk analisis dan eksekusi test
 - Kolaborasi dengan tim product dan engineering untuk validasi perbaikan dan meningkatkan kepercayaan rilis
 
+**Pencapaian:**
+> 🏆 Merancang arsitektur otomasi **End-to-End & API berbasis Playwright** dengan struktur reusable (fixtures & utilities) untuk ekosistem fitur monetisasi kreator.  
+> 🏆 Menginisiasi workflow QA berbasis AI menggunakan **Hermes Agent** untuk mengonversi PRD langsung menjadi test case dan skenario terstruktur, mempercepat proses analisis dan eksekusi testing.
+
 ---
 
 ### 🏢 SDET — Lion Parcel *(Oktober 2025 – Mei 2026)*
@@ -76,10 +80,10 @@ Di sini saya menghadapi tantangan unik: melakukan automation pada **desktop appl
 ---
 
 ### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(Januari 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Malaysia-based company (Permanent: Jan 2022 – Jun 2024 · Freelance Transition: Jul – Sep 2024) · Project: Management Asset — Asset Management System*  
 > *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
 
-Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri.
+Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA dari nol**. Tidak ada automation framework sebelum saya bergabung — saya yang merancang dan membangun seluruh script automation dari awal berdasarkan test case dan test scenario yang saya buat sendiri. Pada 3 bulan terakhir (Juli – September 2024), status kontrak berubah dari permanen menjadi *freelance* untuk masa transisi, sehingga saya mulai bergabung secara *full-time* di Bank BRI.
 
 **Responsibility & Day-to-Day:**
 - Membangun automation framework dari nol menggunakan **Selenium, Appium, dan Rest-Assured**
@@ -158,12 +162,15 @@ Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA d
 ---
 
 **Q: Mengapa Anda meninggalkan pekerjaan sebelumnya?**  
-> Perpindahan saya mengikuti siklus kerja berbasis proyek. Ketika satu proyek selesai, keterlibatan saya berakhir, lalu saya lanjut ke proyek berikutnya. Setiap perpindahan membawa domain yang berbeda — manajemen aset, perbankan (issuing), logistik, lalu produk digital — dan itu memperkaya pengalaman saya sebagai QA. Saat ini saya di **Yapp**, platform monetisasi kreator.
+> Setiap perpindahan saya memiliki alasan profesional yang jelas:
+> - **Asset Data Solution → Bank BRI:** Di 3 bulan terakhir masa kerja di Asset Data Solution, skema kontrak berubah dari *permanent* menjadi *freelance*. Karena saya membutuhkan peran *full-time* yang stabil, saya mulai mencari peluang baru dan diterima di Bank BRI (selama 3 bulan terakhir saya menyelesaikan masa transisi sebagai *freelance* di luar jam kerja utama).
+> - **Bank BRI → Lion Parcel → Yapp:** Perpindahan ini mengikuti siklus kontrak berbasis proyek (*project-based*). Ketika fase proyek berakhir, saya melanjutkan ke tantangan dan domain baru — dari perbankan (*issuing*), logistik, hingga produk digital.
+> - **Mengapa mencari peluang baru dari Yapp saat ini:** Saat ini saya mencari lingkungan kerja untuk jangka panjang karena terdapat ketidaksesuaian realisasi kontrak kerja di tempat sekarang, khususnya terkait belum dipenuhinya hak-hak normatif pekerja seperti **BPJS Kesehatan, BPJS Ketenagakerjaan**, dan benefit standar karyawan lainnya. Saya ingin berkontribusi secara maksimal di perusahaan yang memiliki tata kelola ketenagakerjaan dan kepastian yang jelas bagi karyawannya.
 
 ---
 
 **Q: Di mana Anda melihat diri Anda 3-5 tahun ke depan?**  
-> Salah satu rencana konkret saya adalah melanjutkan pendidikan ke jenjang **S2**. Saya sadar bahwa di industri teknologi Indonesia, karir teknikal punya batas usia yang tidak bisa diabaikan — semakin senior secara teknikal, semakin sempit pasarnya. Karena itu saya ingin bergerak ke arah **manajerial** — menjadi QA Lead atau Engineering Manager yang tidak hanya paham teknis, tapi juga bisa memimpin tim, merancang strategi quality, dan berkomunikasi di level bisnis. S2 bagi saya bukan sekadar gelar, tapi modal untuk transisi itu.
+> Dalam 3–5 tahun ke depan, saya menargetkan untuk berkembang ke peran **manajerial atau kepemimpinan teknis**, seperti **QA Lead atau Engineering Manager**, sembari melanjutkan pendidikan ke jenjang **S2**. Dengan fondasi teknis *hands-on* selama 5 tahun di berbagai domain, saya ingin memperluas dampak saya — tidak hanya mengeksekusi automation secara individu, tetapi juga memimpin tim, merancang strategi *quality engineering* secara menyeluruh, dan menjembatani kebutuhan teknis dengan tujuan bisnis perusahaan. Pendidikan S2 dan pengalaman lapangan adalah modal saya untuk transisi tersebut.
 
 ---
 
@@ -194,9 +201,9 @@ Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA d
 ---
 
 **Q: Berapa ekspektasi gaji Anda?**  
-> Sebelum saya menjawab, boleh saya tahu dulu range yang ditawarkan untuk posisi ini? Saya ingin memastikan kita berada di halaman yang sama sejak awal.
+> Sebelum saya menyebutkan angka spesifik, boleh saya tahu terlebih dahulu *range* budget yang disiapkan untuk posisi ini? Saya ingin memastikan ekspektasi kita selaras sejak awal.
 >
-> Untuk konteks, saat ini saya menerima gaji **Rp 15.000.000 gross per bulan** tanpa benefit dari perusahaan. Benefit yang saya dapat berasal dari sisi client, yaitu makan siang gratis, parkir gratis, dan kopi gratis. Jadi ekspektasi saya tentunya di atas angka tersebut, menyesuaikan dengan tanggung jawab dan benefit yang ditawarkan di posisi ini.
+> Sebagai konteks, kompensasi yang saya terima saat ini adalah **Rp 15.000.000 gross per bulan** tanpa benefit normatif dari perusahaan (seperti BPJS Kesehatan, BPJS Ketenagakerjaan, maupun tunjangan lainnya; sebelumnya saat penempatan di sisi client saya hanya mendapatkan fasilitas operasional seperti makan siang, parkir, dan kopi gratis). Oleh karena itu, ekspektasi saya berada di atas angka tersebut dengan mempertimbangkan paket kompensasi secara menyeluruh (*total compensation*), termasuk pemenuhan hak normatif (BPJS Kesehatan & Ketenagakerjaan), benefit perusahaan, serta cakupan tanggung jawab di posisi ini.
 
 ---
 
@@ -226,7 +233,7 @@ Ini adalah perusahaan pertama saya, dan di sinilah saya **membangun fondasi QA d
 ---
 
 **Q: Apa itu API testing dan bagaimana kamu melakukannya?**  
-> API testing adalah memvalidasi endpoint secara langsung tanpa melalui UI. Saya menggunakan Postman untuk manual dan exploratory API testing, dan Rest-Assured untuk automation. Yang saya cek biasanya: status code, response body, response time, error handling, dan konsistensi data antara response API dengan database.
+> API testing adalah memvalidasi endpoint secara langsung tanpa melalui UI. Saya menggunakan **Postman** dan **cURL** untuk manual dan exploratory API testing, serta **Playwright** dan **Rest-Assured** untuk API test automation. Yang saya cek biasanya: status code, response body & schema, response time, error handling (negative case), serta konsistensi data antara response API dengan database.
 
 ---
 
@@ -547,6 +554,10 @@ This is my current role, on a creator monetization platform.
 - Build an AI-assisted workflow that turns **PRDs** into structured test cases and scenarios, using **Hermes Agent** to support test analysis and execution
 - Collaborate with product and engineering teams to validate fixes and improve release confidence
 
+**Achievements:**
+> 🏆 Architected a scalable **Playwright End-to-End & API automation framework** with reusable fixtures and utilities across creator monetization workflows.  
+> 🏆 Built an AI-assisted QA workflow powered by **Hermes Agent** to automatically convert PRDs into structured test cases and scenarios, accelerating test design and execution.
+
 ---
 
 ### 🏢 SDET — Lion Parcel *(October 2025 – May 2026)*
@@ -586,10 +597,10 @@ Here I faced a unique technical challenge: automating a **desktop application wi
 ---
 
 ### 🌏 SQA Engineer — Asset Data Solution Sdn Bhd *(January 2022 – September 2024)*
-> *Malaysia-based company · Project: Management Asset — Asset Management System*  
+> *Malaysia-based company (Permanent: Jan 2022 – Jun 2024 · Freelance Transition: Jul – Sep 2024) · Project: Management Asset — Asset Management System*  
 > *Features: Asset Data, Inventory, Helpdesk, Insurance Claim*
 
-This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself.
+This was my first role, and where I **built the automation practice from the ground up**. There was no automation framework before I joined — I designed and developed the entire script automation from scratch, based on test cases and scenarios I also created myself. During my final 3 months (July – September 2024), my contract transitioned from permanent to freelance for handover and maintenance, which prompted me to look for a new full-time role and join Bank BRI.
 
 **Responsibility & Day-to-Day:**
 - Built the company's first automation framework from zero using **Selenium, Appium, and Rest-Assured**
@@ -668,12 +679,15 @@ This was my first role, and where I **built the automation practice from the gro
 ---
 
 **Q: Why did you leave your previous job?**  
-> My moves followed project-based work. When a project ends, the engagement ends, and I move on to the next one. Each transition brought a different domain — asset management, banking (issuing), logistics, then digital products — which broadened my experience as a QA. I'm currently at **Yapp**, a creator monetization platform.
+> Each of my career transitions had a clear professional context:
+> - **Asset Data Solution → Bank BRI:** In my final 3 months at Asset Data Solution, my employment contract changed from permanent to freelance. Since I was looking for a stable full-time role, I started exploring new opportunities and joined Bank BRI (completing my final 3 months at Asset Data Solution on a freelance basis outside core working hours).
+> - **Bank BRI → Lion Parcel → Yapp:** These moves followed project-based engagements. When a project phase wrapped up, I moved on to the next challenge across different domains — from banking (issuing) to logistics and digital products.
+> - **Why I am currently exploring new opportunities from Yapp:** I'm looking for a long-term home because there has been a gap between the initial employment agreement and its actual fulfillment at my current company — specifically regarding statutory employee benefits such as **BPJS Kesehatan (health insurance), BPJS Ketenagakerjaan (social security)**, and standard employment protections. I want to contribute long-term at a company with clear employment governance and statutory benefits.
 
 ---
 
 **Q: Where do you see yourself in 3–5 years?**  
-> One of my concrete plans is to pursue a **Master's degree (S2)**. I'm aware that in Indonesia's tech industry, a purely technical career has a shelf life — the more senior you get technically, the narrower the market becomes. That's why I want to move toward **management** — becoming a QA Lead or Engineering Manager who not only understands the technical side deeply, but can also lead a team, design quality strategy, and communicate at a business level. For me, an S2 isn't just a degree — it's the foundation for that transition.
+> In the next 3–5 years, I aim to grow into a **technical leadership or management role**, such as **QA Lead or Engineering Manager**, while pursuing a **Master's degree (S2)**. With 5 years of hands-on technical foundation across multiple domains, I want to expand my impact beyond individual test execution — leading QA teams, designing organization-wide quality engineering strategies, and aligning quality initiatives with business goals. Pursuing an S2 alongside my industry experience is my roadmap for that transition.
 
 ---
 
@@ -704,9 +718,9 @@ This was my first role, and where I **built the automation practice from the gro
 ---
 
 **Q: What is your expected salary?**  
-> Before I answer, could I ask what range you have in mind for this role? I'd like to make sure we're aligned from the start.
+> Before I share a specific figure, could I ask what budget range is allocated for this role? I'd like to make sure our expectations are aligned from the start.
 >
-> For context, my current compensation is **IDR 15,000,000 gross per month** with no company benefits. The perks I receive come from the client side — free lunch, free parking, and free coffee. So naturally, my expectation would be above that figure, adjusted based on the responsibilities and benefits this position offers.
+> For context, my current compensation is **IDR 15,000,000 gross per month** without statutory company benefits (such as BPJS Kesehatan, BPJS Ketenagakerjaan, or allowances; in previous client-site placements I only received operational perks like free lunch, free parking, and free coffee). Naturally, my expectation is above that baseline, factoring in the total compensation package — including statutory protections (BPJS Kesehatan & Ketenagakerjaan), company benefits, and the scope of responsibilities for this role.
 
 ---
 
@@ -736,7 +750,7 @@ This was my first role, and where I **built the automation practice from the gro
 ---
 
 **Q: What is API testing and how do you approach it?**  
-> API testing is validating endpoints directly without going through the UI. I use Postman for manual and exploratory API testing, and Rest-Assured for automation. What I typically check: status codes, response body structure, response time, error handling, and data consistency between the API response and the database.
+> API testing is validating endpoints directly without going through the UI. I use **Postman** and **cURL** for manual and exploratory API testing, and **Playwright** and **Rest-Assured** for API test automation. What I typically check: status codes, response body & schema structure, response time, error handling (negative cases), and data consistency between the API response and the database.
 
 ---
 
@@ -772,6 +786,219 @@ This was my first role, and where I **built the automation practice from the gro
 
 **Q: What do you do if a critical bug is found on release day?**  
 > First: escalate immediately to the lead and developer — don't sit on it. Second: provide as much detail as possible — steps to reproduce, environment, severity, and business impact — so the team can assess it quickly. Third: participate in the discussion on whether to delay the release, push a hotfix, or implement a workaround. The decision belongs to the team, but QA's job is to make sure they have everything they need to make the right call.
+
+</details>
+
+---
+
+<details>
+<summary><b>🧪 Types of Testing</b></summary>
+
+### ⬛ Black Box Testing
+Testing performed **without knowing the internal code structure**. The tester focuses solely on inputs and expected outputs based on requirements.
+
+| Technique | Description | My Application |
+|-----------|-------------|----------------|
+| Equivalence Partitioning | Dividing inputs into valid and invalid partitions | Used when designing test cases for form inputs |
+| Boundary Value Analysis | Testing values at minimum and maximum boundaries | Used for testing transaction limits at Bank BRI |
+| Decision Table | Combinations of conditions and expected actions | Used for testing insurance claim workflows |
+| State Transition | Testing system state changes across transitions | Used for testing credit card status flows (active/inactive/blocked) |
+| Exploratory Testing | Unscripted testing guided by domain intuition and experience | Used to uncover edge-case defects beyond scripted scenarios |
+
+---
+
+### ⬜ White Box Testing
+Testing performed **with knowledge of the internal code structure**, focusing on logic, branches, and execution paths.
+
+| Technique | Description | My Application |
+|-----------|-------------|----------------|
+| Statement Coverage | Ensuring every line of code is executed | Applied during automation script reviews |
+| Branch Coverage | Ensuring every conditional branch (`if/else`) is tested | Applied when writing assertions in Playwright |
+| Path Coverage | Testing all possible execution paths | Applied to complex transaction workflows |
+| Unit Testing | Testing the smallest isolated functions/units | Collaborating with developers to validate unit coverage |
+
+---
+
+### 🔲 Grey Box Testing
+A combination of black box and white box — the tester **has partial knowledge** of system internals, such as database schemas or API contracts.
+
+> **My practical example:** When performing API testing with Postman or Playwright, I verify the HTTP response body while simultaneously validating persisted records in the database using DBeaver — leveraging knowledge of the underlying database schema.
+
+---
+
+### 📋 By Testing Level
+
+| Level | Description | Tools I Use |
+|-------|-------------|-------------|
+| **Unit Testing** | Testing isolated components/functions | Collaboration with developers |
+| **Integration Testing** | Testing interactions between components/services | Playwright, Rest-Assured, Postman |
+| **System Testing (SIT)** | End-to-end testing of the integrated system | Playwright, Selenium, Katalon |
+| **UAT** | Final validation by business/end users before release | UAT support & documentation |
+| **Regression Testing** | Ensuring new changes do not break existing functionality | Playwright, Robot Framework |
+| **Smoke Testing** | Quick verification that a build is stable enough for further testing | Subset of automation suite |
+| **Sanity Testing** | Focused verification after a specific bug fix or minor change | Targeted manual + automated tests |
+
+---
+
+### ⚡ By Other Testing Types
+
+| Type | Description | Tools |
+|------|-------------|-------|
+| **Functional Testing** | Validating features against functional requirements | Playwright, Selenium, Katalon, Cypress |
+| **Performance Testing** | Measuring speed, responsiveness, stability, and scalability | K6, JMeter |
+| **Load Testing** | Testing system behavior under expected normal and peak load | K6 |
+| **Stress Testing** | Testing system limits beyond normal operational capacity | K6, JMeter |
+| **API Testing** | Validating endpoints, requests, responses, and contracts | Playwright, Postman, Rest-Assured, cURL |
+| **Mobile Testing** | Testing on Android and iOS platforms | Appium + Cucumber |
+| **Cross-platform Testing** | Ensuring consistent behavior across browsers, devices, and OS | Playwright, Appium |
+| **Database Testing** | Validating data integrity and queries at the database layer | DBeaver, SQL |
+| **Security Testing** | Identifying basic security vulnerabilities and access control flaws | Manual + basic security checks |
+
+</details>
+
+---
+
+<details>
+<summary><b>📐 Testing Strategy & Methodology</b></summary>
+
+### 🔄 Agile Testing
+I have worked in **Agile/Scrum environments** across all my roles. Testing is not a separate phase at the end of a sprint — it is **integrated continuously throughout the development lifecycle**.
+
+**Practices I apply:**
+- Participating from sprint planning to clarify acceptance criteria early
+- Designing test scenarios in parallel with development (shift-left testing)
+- Running automated checks on pull requests via CI/CD pipelines
+- Demonstrating quality results during sprint reviews
+- Driving continuous QA process improvements during retrospectives
+
+---
+
+### 🔺 Testing Pyramid
+I follow the **Testing Pyramid** principle when balancing test layers:
+
+```
+        /\
+       /  \   E2E Tests (few, higher cost, slower)
+      /----\
+     /      \ Integration / API Tests (moderate)
+    /--------\
+   /          \ Unit Tests (many, low cost, fast)
+  /____________\
+```
+
+> **My application:** At Lion Parcel and Yapp, I ensured our automation suites emphasized fast, reliable API/integration tests alongside critical-path E2E tests in Playwright, keeping execution fast and maintenance low.
+
+---
+
+### 🎯 Risk-Based Testing
+My framework for prioritizing testing based on **business and technical risk**:
+
+1. **Identify risk** — Which features are most business-critical if they fail?
+2. **Analyze impact** — How severe is the impact on users and revenue?
+3. **Assess likelihood** — How complex, frequently changed, or bug-prone is the area?
+4. **Prioritize** — High risk + high impact = top priority
+5. **Allocate effort** — Focus automation and deep testing on high-risk workflows first
+
+---
+
+### 🔄 Shift-Left Testing
+Starting quality activities **as early as possible** in the development lifecycle rather than waiting for a finished build.
+
+**My concrete practices:**
+- Reviewing PRDs, requirements, and designs before coding starts
+- Converting PRDs into structured test cases early (assisted by AI / Hermes Agent)
+- Catching requirement ambiguities and edge cases during refinement
+- Maintaining a fast feedback loop with developers during implementation
+
+---
+
+### 🤖 Automation Strategy
+
+**When to automate:**
+- Repetitive tests executed every sprint or release (regression, smoke)
+- Data-driven tests covering multiple input combinations
+- Fast feedback checks required in CI/CD pipelines
+- Cross-browser and cross-device regression flows
+
+**When to keep manual:**
+- Exploratory testing for newly built features
+- UI/UX usability reviews requiring human judgment
+- One-off verification for isolated fixes
+- Scenarios with low ROI or high maintenance overhead relative to risk
+
+**Frameworks & Tools by Use Case:**
+| Use Case | Tools |
+|----------|-------|
+| Web E2E | Playwright, Selenium, Katalon, Cypress, Robot Framework |
+| Mobile | Appium + Cucumber |
+| API | Playwright, Postman, Rest-Assured, cURL |
+| Performance | K6, JMeter |
+| BDD | Cucumber (Playwright, Selenium, Appium, Cypress, Katalon) |
+| CI/CD | Git, Jenkins, GitHub Actions, Pipeline |
+
+---
+
+### 📊 Test Metrics I Track
+
+| Metric | Description |
+|--------|-------------|
+| **Test Coverage** | Percentage of requirements/user flows covered by tests |
+| **Pass Rate** | Percentage of passing tests per execution run |
+| **Defect Density** | Number of defects identified per module/feature |
+| **Defect Escape Rate** | Defects that slip past QA into UAT/production |
+| **Automation ROI** | Execution time saved vs. script maintenance effort |
+| **Mean Time to Detect (MTTD)** | Average time taken to identify a defect after introduction |
+
+---
+
+### 🐛 Bug Lifecycle
+
+```
+New → Assigned → In Progress → Fixed → Ready to Test → Verified → Closed
+                                                    ↓
+                                               Reopened (if still reproducible)
+```
+
+**Components of my bug reports:**
+- **Title** — Concise and specific summary of the issue
+- **Environment** — OS, browser, device, app version, environment URL
+- **Steps to Reproduce** — Clear, numbered steps anyone can follow
+- **Expected Result** — What should happen according to requirements
+- **Actual Result** — What actually happens
+- **Severity & Priority** — Critical / High / Medium / Low
+- **Attachments** — Screenshots, screen recordings, console/network logs
+
+---
+
+### 🚦 Severity vs Priority
+
+Two concepts that are **often confused but fundamentally different** — a classic interview question.
+
+> **Severity** = How severely the defect impacts **system functionality**  
+> **Priority** = How urgently the defect **must be fixed**
+
+| Combination | Explanation | Real-World Example |
+|-------------|-------------|--------------------|
+| **High Severity + High Priority** | Critical functional failure requiring immediate fix | Login or checkout flow completely broken |
+| **High Severity + Low Priority** | Severe defect in an unused or deprecated path | Crash in a legacy report module no longer used by clients |
+| **Low Severity + High Priority** | Minor/cosmetic issue with urgent business visibility | Typo in the CEO's name on the landing page before a press release |
+| **Low Severity + Low Priority** | Minor cosmetic issue with no urgency | Slight icon color mismatch on a secondary settings page |
+
+> 💡 **Example from my experience:** At Bank BRI, I found a minor balance display formatting inconsistency on mobile — **Minor Severity** (calculations and transactions worked fine), but **High Priority** because an executive board demo was scheduled for the next day.
+
+---
+
+### 🔁 SDLC & QA's Role Across Phases
+
+| SDLC Phase | QA Activities |
+|------------|---------------|
+| **Requirements** | Review PRDs/requirements, spot ambiguities, draft initial test scenarios |
+| **Design** | Review system/UI design, identify technical risks, prepare test plan |
+| **Development** | Write detailed test cases, prepare test data, build/extend automation scripts |
+| **Testing** | Execute SIT, regression, performance, and API testing |
+| **UAT** | Support business/user testing and document sign-off results |
+| **Release** | Post-deployment smoke testing and initial release verification |
+| **Maintenance** | Periodic regression runs and updating automation suites for changes |
 
 </details>
 
